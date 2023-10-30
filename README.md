@@ -27,5 +27,4 @@ cd GRI
 sh pipeline.sh
 ```
 
-> 4. The bash file **pipeline.sh** inside each subfolder will trigger all source code to run.
-
+> 4. The bash file **pipeline.sh** inside each subfolder will trigger all source code to run
