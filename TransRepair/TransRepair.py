@@ -16,7 +16,7 @@ dataset = 'wmt17'
 software = 'transformer'
 similarity_threshold = 0.96
 #translate_client = translate.Client()	# initialize the Google translate client
-apikey = 'f246bd04139d4f71a28025689a794a10'	
+apikey = ''	
 approach = ''
 mutant_limit=5
 
