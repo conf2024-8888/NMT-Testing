@@ -11,6 +11,3 @@ To set up language parsers:
 + Unzip the file and open the folder.
 + Run `java -Xmx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -serverProperties StanfordCoreNLP-chinese.properties -preload tokenize,ssplit,pos,lemma,ner,parse,depparse -status_port 9001  -port 9001 -timeout 15000`
 
-Read more information about SIT from the following paper:
-
-+ Pinjia He, Clara Meister, Zhendong Su. [Structure-Invariant Testing for Machine Translation](https://arxiv.org/abs/1907.08710), *International Conference on Software Engineering (ICSE)*, 2020.
