@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Replicate the results
 > 1. download transformer model at [transformer model](https://mega.nz/file/tDlyiSbJ#uz36-pUyrM6qXnj2h97BkKjOp4otVVTevqKi4axkpH8) and unzip the zipped file and put the model in the root directory of the repository.
 
-> 2. Go to the subdirectory **CAT**, **GRI** or **WALI**: 
+> 2. Go to the subdirectory **TransRepair**, **SIT**, **CAT**, **GRI** or **WALI** 
 
 ```bash
 cd GRI
