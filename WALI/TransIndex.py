@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 from transformers import AutoModelWithLMHead,AutoTokenizer,pipeline, MarianTokenizer, MarianTokenizer, TFMarianMTModel, AutoModelForSeq2SeqLM
 import torch
-mode_name = '../transformer'
+mode_name = '/home/as/hanyings/opus-mt-en-zh-finetuned-en-to-zh-1109/checkpoint-208000'
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 model =AutoModelForSeq2SeqLM.from_pretrained(mode_name).to(device)
 tokenizer = AutoTokenizer.from_pretrained(mode_name, return_tensors="pt")
@@ -200,14 +200,14 @@ def alignment_search(en_sentence, zh_sentence, k=5):
 def loop_data_nostop(dataset):
     for pair in tqdm(dataset['translation']):
         #pair["token_index"], pair["top_tokens"] = gradient_search_nostop(pair["en"], pair["zh"])
-        pair["token_index"], pair["top_tokens"], pair["logits"] = alignment_search(pair["en"], pair["zh"])
+        pair["token_index"], pair["top_tokens"], pair["logits"] = alignment_search(pair["en"], pair["zh"], k=5)
         #print(dataset['translation'][0])
     return dataset['translation']
 result = loop_data_nostop(raw_datasets["test"][:])
 
 import json
 
-with open("./en_token_al_stop.json", "w") as f:
+with open("./en_token_al_stop_5.json", "w") as f:
     json.dump(result, f)
     
     

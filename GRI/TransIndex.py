@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 from transformers import AutoModelWithLMHead,AutoTokenizer,pipeline, MarianTokenizer, MarianTokenizer, TFMarianMTModel, AutoModelForSeq2SeqLM
 import torch
-mode_name = '../transformer'
+mode_name = '/home/as/hanyings/opus-mt-en-zh-finetuned-en-to-zh-1109/checkpoint-208000'
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 model =AutoModelForSeq2SeqLM.from_pretrained(mode_name).to(device)
 tokenizer = AutoTokenizer.from_pretrained(mode_name, return_tensors="pt")
@@ -122,28 +122,27 @@ def gradient_search(en_sentence, zh_sentence, k=10):
     #     if is_stopword(current_token, tokenizer):
     #         grad_norm[i] = 0
     #idx = np.argsort(grad_norm).tolist()[::-1]
-    
+    #idx = np.argsort(grad_norm).tolist()[::-1]
+
     grad_norm = np.asarray(grad_norm)
     grad_norm = grad_norm.astype(float)
-    idx =[ i for i in idx if punctuation(tokenizer.decode(token_ids[0][i]))]
+    idx =[ i for i in idx if punctuation(tokenizer.decode(token_ids[0][i])) and i != 0]
     idx=idx[:min(len(idx), k)]
     grad_lst = [grad_norm[i] for i in idx]
     #print(grad_lst)
     input_tokens = [token_ids[0][i] for i in idx]
     return idx, [tokenizer.decode(t) for t in input_tokens], grad_lst
 
-
+token_num = 5
 def loop_data_nostop(dataset):
     for pair in tqdm(dataset['translation']):
         #pair["token_index"], pair["top_tokens"] = gradient_search_nostop(pair["en"], pair["zh"])
-        pair["token_index"], pair["top_tokens"], pair["grad"] = gradient_search(pair["en"], pair["zh"])
+        pair["token_index"], pair["top_tokens"], pair["grad"] = gradient_search(pair["en"], pair["zh"], k=token_num)
         #print(dataset['translation'][0])
     return dataset['translation']
 result = loop_data_nostop(raw_datasets["test"][:])
 
 import json
 
-with open("./en_token_stop.json", "w") as f:
+with open(f"./en_token_stop_{token_num}.json", "w") as f:
     json.dump(result, f)
-    
-    

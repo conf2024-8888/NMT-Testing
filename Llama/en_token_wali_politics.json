@@ -1,0 +1,2663 @@
+[
+    {
+        "en": "Meanwhile, blacks and Latinos are primarily funneled into underfunded and overcrowded bottom tier, open access colleges.\n",
+        "zh": [
+            "同时,黑人和拉丁人主要进入供资不足和人满为患的底层开放式学院。"
+        ],
+        "token_index": [
+            15,
+            4,
+            21,
+            14,
+            16
+        ],
+        "top_tokens": [
+            "overcrowded",
+            "and",
+            "colleges",
+            "and",
+            "bottom"
+        ],
+        "logits": [
+            6.247574191320382e-08,
+            6.513553216791479e-06,
+            1.5905170585028827e-05,
+            2.4700539142941125e-05,
+            2.8153323000879027e-05
+        ]
+    },
+    {
+        "en": "Brazilian President Jair Bolsonaro sat for chummy bilateral talks with Trump that illustrated what White House officials hope is a budding partnership between the Western hemisphere ' s two largest economies.\n",
+        "zh": [
+            "巴西总统鲍尔索纳罗(Jair Bolsonaro)与特朗普(Trump)举行双边会谈,这说明白宫官员希望西半球两大经济体之间正在形成伙伴关系。"
+        ],
+        "token_index": [
+            15,
+            6,
+            3,
+            4,
+            2
+        ],
+        "top_tokens": [
+            "rump",
+            "aro",
+            "ir",
+            "Bol",
+            "Ja"
+        ],
+        "logits": [
+            9.430690603440262e-12,
+            7.434446303022924e-08,
+            9.931999045420525e-08,
+            1.165455216778355e-07,
+            2.2413139788568515e-07
+        ]
+    },
+    {
+        "en": "Gavin Newsom ' s first budget proposed extending that to a second year.\n",
+        "zh": [
+            "Gavin Newsom的第一份预算提议将这一数额延长至第二年。"
+        ],
+        "token_index": [
+            9,
+            1,
+            2,
+            14,
+            13
+        ],
+        "top_tokens": [
+            "extending",
+            "vin",
+            "News",
+            "year",
+            "second"
+        ],
+        "logits": [
+            4.598031821956283e-08,
+            5.492552759278624e-07,
+            1.00384477264015e-06,
+            1.0338993661207496e-06,
+            1.099356609302049e-06
+        ]
+    },
+    {
+        "en": "And in the wake of the New Zealand tragedy, I want to make one thing very clear: we will not permit such hate in the homeland, she added.\n",
+        "zh": [
+            "在 新西兰 悲剧 发生 后, 我 想 讲 个 十分 清楚 的 话 : 我们 绝不 允许 在 祖国 发生 这种 仇恨, 她 补充 说 。"
+        ],
+        "token_index": [
+            26,
+            29,
+            22,
+            32,
+            21
+        ],
+        "top_tokens": [
+            "hate",
+            "homeland",
+            "will",
+            "added",
+            "we"
+        ],
+        "logits": [
+            4.1243466974982823e-10,
+            3.812308246864404e-09,
+            2.1721900722582177e-08,
+            2.2657845377693775e-08,
+            3.120653602195489e-08
+        ]
+    },
+    {
+        "en": "Children in the top 1% of families were 77 times more likely to attend these institutions than children from parents in the bottom fifth of earners, the analysis found.\n",
+        "zh": [
+            "分析发现,顶层1%家庭的孩子在这些机构上学的可能性比下层五分之一家庭的父母的孩子高出77倍。"
+        ],
+        "token_index": [
+            9,
+            30,
+            12,
+            24,
+            11
+        ],
+        "top_tokens": [
+            "77",
+            "found",
+            "likely",
+            "fifth",
+            "more"
+        ],
+        "logits": [
+            6.346448913063796e-07,
+            6.801361678299145e-07,
+            2.1326629848772427e-06,
+            2.1955586362309987e-06,
+            1.3776460036751814e-05
+        ]
+    },
+    {
+        "en": "Mueller also received approval on two separate occasions to track the numbers of Cohen ' s incoming and outgoing calls.\n",
+        "zh": [
+            "穆勒还分别在两个场合获得批准,以跟踪科恩来来回电话的数量。"
+        ],
+        "token_index": [
+            4,
+            7,
+            10,
+            14,
+            12
+        ],
+        "top_tokens": [
+            "approval",
+            "separate",
+            "track",
+            "Cohen",
+            "numbers"
+        ],
+        "logits": [
+            2.723402872106817e-07,
+            4.936557616019854e-07,
+            3.264414317527553e-06,
+            7.414737865474308e-06,
+            8.790948413661681e-06
+        ]
+    },
+    {
+        "en": "The court correctly holds that the Executive Branch ' s detention of the particular non citizens here remained mandatory even though the Executive Branch did not immediately detain them.\n",
+        "zh": [
+            "法院正确地认为,尽管行政部门没有立即拘留这些非公民,但行政部门对这里的非公民的拘留仍然是强制性的。"
+        ],
+        "token_index": [
+            15,
+            22,
+            17,
+            25,
+            14
+        ],
+        "top_tokens": [
+            "citizens",
+            "Executive",
+            "remained",
+            "not",
+            "non"
+        ],
+        "logits": [
+            2.643901808596638e-08,
+            1.3282898692068557e-07,
+            2.1799235128128203e-07,
+            2.703134498460713e-07,
+            3.0060655831221084e-07
+        ]
+    },
+    {
+        "en": "Except it did not destroy Trump.\n",
+        "zh": [
+            "除了它没有摧毁特朗普。"
+        ],
+        "token_index": [
+            6,
+            4,
+            3,
+            0,
+            1
+        ],
+        "top_tokens": [
+            "rump",
+            "destroy",
+            "not",
+            "Except",
+            "it"
+        ],
+        "logits": [
+            1.004338514576375e-06,
+            1.0439813195262104e-05,
+            0.0003886310732923448,
+            0.00041678774869069457,
+            0.0009682626114226878
+        ]
+    },
+    {
+        "en": "Harley Davidson, stuck in the middle, said it could lose $100 million per year, so the company decided to move some production overseas to avoid the EU tariffs.\n",
+        "zh": [
+            "哈雷?戴维森(Harley Davidson)则表示,可能会每年损失1亿美元,因此该公司决定将部分产量转移到海外,以避免欧盟的关税。"
+        ],
+        "token_index": [
+            1,
+            14,
+            2,
+            24,
+            19
+        ],
+        "top_tokens": [
+            "ley",
+            "$100",
+            "David",
+            "move",
+            "so"
+        ],
+        "logits": [
+            2.7967963500685755e-09,
+            3.087694722125889e-08,
+            6.413701925112036e-08,
+            1.4353275901157758e-07,
+            7.216042945401568e-07
+        ]
+    },
+    {
+        "en": "There ' s zero hostility with me.\n",
+        "zh": [
+            "我完全没有敌意。"
+        ],
+        "token_index": [
+            4,
+            3,
+            6
+        ],
+        "top_tokens": [
+            "hostility",
+            "zero",
+            "me"
+        ],
+        "logits": [
+            0.0001695471873972565,
+            0.0014756598975509405,
+            0.05082155764102936
+        ]
+    },
+    {
+        "en": "Let ' s take a step back here and think of what happened here in Washington on Tuesday.\n",
+        "zh": [
+            "让我们往后退一步,想想周二在华盛顿发生的事情。"
+        ],
+        "token_index": [
+            11,
+            15,
+            14,
+            8,
+            9
+        ],
+        "top_tokens": [
+            "what",
+            "Washington",
+            "in",
+            "and",
+            "think"
+        ],
+        "logits": [
+            7.497763476749242e-07,
+            1.4773341945328866e-06,
+            5.9188614613958634e-06,
+            1.87062887562206e-05,
+            3.3059641282306984e-05
+        ]
+    },
+    {
+        "en": "But even so, they remain bastions of privilege.\n",
+        "zh": [
+            "但即使如此,它们仍然是特权的堡垒。"
+        ],
+        "token_index": [
+            6,
+            5,
+            1,
+            10,
+            4
+        ],
+        "top_tokens": [
+            "ba",
+            "remain",
+            "even",
+            "privilege",
+            "they"
+        ],
+        "logits": [
+            1.2526015780167654e-08,
+            1.9093274659098824e-06,
+            2.673932385732769e-06,
+            3.067777015530737e-06,
+            1.1474120583443437e-05
+        ]
+    },
+    {
+        "en": "The Census Bureau estimates they will reach a majority of the under 18 population around 2020.\n",
+        "zh": [
+            "人口普查局估计,2020年前后,他们将惠及18岁以下人口中的多数人。"
+        ],
+        "token_index": [
+            12,
+            6,
+            11,
+            15,
+            8
+        ],
+        "top_tokens": [
+            "18",
+            "reach",
+            "under",
+            "2020",
+            "majority"
+        ],
+        "logits": [
+            3.341401679790579e-07,
+            4.186486535218137e-07,
+            4.478472135360789e-07,
+            5.136013214723789e-07,
+            3.4526440231275046e-06
+        ]
+    },
+    {
+        "en": "The UC Latino students are 25 times more likely to finish their degrees on time than Latinos in the community college system.\n",
+        "zh": [
+            "在社区大学体系中,UC拉丁裔学生按时完成学位的几率是拉丁裔学生的25倍。"
+        ],
+        "token_index": [
+            7,
+            18,
+            16,
+            5,
+            3
+        ],
+        "top_tokens": [
+            "25",
+            "Latin",
+            "time",
+            "students",
+            "Latin"
+        ],
+        "logits": [
+            1.2027066986775026e-07,
+            4.00592443838832e-06,
+            2.0113931896048598e-05,
+            2.8898219170514494e-05,
+            5.993925151415169e-05
+        ]
+    },
+    {
+        "en": "But it would keep the new investment in Michigan and focus there on self driving vehicles, according to reports.\n",
+        "zh": [
+            "但是,根据报道,它会保留在密歇根州的新投资,并专注于自驾车。"
+        ],
+        "token_index": [
+            8,
+            10,
+            0,
+            3,
+            5
+        ],
+        "top_tokens": [
+            "Michigan",
+            "focus",
+            "But",
+            "keep",
+            "new"
+        ],
+        "logits": [
+            2.3008460630080663e-06,
+            7.768672730890103e-06,
+            9.099718226934783e-06,
+            1.2227841580170207e-05,
+            3.481543535599485e-05
+        ]
+    },
+    {
+        "en": "Meanwhile, whites still fill most of the seats at the most selective institutions, which spend the most on their students.\n",
+        "zh": [
+            "同时,白人仍然占据了最有选择的院校的大多数席位,这些院校在学生身上花费最多。"
+        ],
+        "token_index": [
+            19,
+            6,
+            16,
+            20,
+            0
+        ],
+        "top_tokens": [
+            "most",
+            "most",
+            "which",
+            "on",
+            "Meanwhile"
+        ],
+        "logits": [
+            1.560146074552904e-07,
+            1.5677412079639907e-07,
+            9.037419658852741e-06,
+            1.2819657058571465e-05,
+            3.816029129666276e-05
+        ]
+    },
+    {
+        "en": "The Marijuana Policy Project, a group which seeks to decriminalize marijuana, said the law is a great step forward and provides patients with more treatment options.\n",
+        "zh": [
+            "大麻政策计划(marijuana Policy Project)称,该法是一大进步,为病人提供了更多的治疗选择。"
+        ],
+        "token_index": [
+            5,
+            2,
+            3,
+            4,
+            24
+        ],
+        "top_tokens": [
+            "Project",
+            "ju",
+            "ana",
+            "Policy",
+            "provides"
+        ],
+        "logits": [
+            4.259555375085711e-09,
+            1.435517589243318e-07,
+            2.2188589809957193e-07,
+            2.317843836863176e-07,
+            5.872054202882282e-07
+        ]
+    },
+    {
+        "en": "I have always said to my friends that focusing just on affirmative action ... is not a solution.\n",
+        "zh": [
+            "我 一直 向 我 的 朋友 说, 只 集中 于 肯定 行动 并不是 一 个 解决 办法 。"
+        ],
+        "token_index": [
+            15,
+            17,
+            6,
+            2,
+            7
+        ],
+        "top_tokens": [
+            "not",
+            "solution",
+            "friends",
+            "always",
+            "that"
+        ],
+        "logits": [
+            2.8929705297997543e-09,
+            4.031164735351922e-09,
+            4.6983924306687186e-08,
+            1.1429841606513946e-07,
+            1.582336466299239e-07
+        ]
+    },
+    {
+        "en": "Then, just hours after the terrorist attacks in 2001, he witnessed a wartime President Bush as he comforted staffers aboard Air Force One.\n",
+        "zh": [
+            "接着,就在2001年恐怖袭击发生几小时后,布什总统在空军一号上安慰了工作人员。"
+        ],
+        "token_index": [
+            9,
+            2,
+            20,
+            3,
+            15
+        ],
+        "top_tokens": [
+            "2001,",
+            "just",
+            "staff",
+            "hours",
+            "Bush"
+        ],
+        "logits": [
+            5.15893930241873e-07,
+            7.639076216037211e-07,
+            1.0547779538683244e-06,
+            1.5932654378048028e-06,
+            3.4302242966077756e-06
+        ]
+    },
+    {
+        "en": "We see China doing that.\n",
+        "zh": [
+            "我们 看到 中国 这样 做 。"
+        ],
+        "token_index": [
+            3,
+            1,
+            2,
+            0
+        ],
+        "top_tokens": [
+            "doing",
+            "see",
+            "China",
+            "We"
+        ],
+        "logits": [
+            1.2636370172458555e-07,
+            7.692921644775197e-05,
+            0.00015927925414871424,
+            0.004779299255460501
+        ]
+    },
+    {
+        "en": "Alito said that the law did not support their argument.\n",
+        "zh": [
+            "阿利托说,法律不能支持他们的论点."
+        ],
+        "token_index": [
+            10,
+            7,
+            8,
+            9,
+            3
+        ],
+        "top_tokens": [
+            "argument",
+            "not",
+            "support",
+            "their",
+            "that"
+        ],
+        "logits": [
+            2.2566116513189627e-06,
+            2.3715563656878658e-05,
+            5.521206549019553e-05,
+            8.218755829147995e-05,
+            0.00010026719974121079
+        ]
+    },
+    {
+        "en": "I had a story to tell and I wanted to finish it, Draper says.\n",
+        "zh": [
+            "我有一个故事要讲,我想完成,德拉帕说。"
+        ],
+        "token_index": [
+            15,
+            8,
+            10,
+            16,
+            13
+        ],
+        "top_tokens": [
+            "per",
+            "wanted",
+            "finish",
+            "says",
+            "Dr"
+        ],
+        "logits": [
+            1.1426561741245678e-06,
+            1.061067268892657e-05,
+            2.3916731151985005e-05,
+            2.714224683586508e-05,
+            5.815333497594111e-05
+        ]
+    },
+    {
+        "en": "They do not know what to do with him!\n",
+        "zh": [
+            "他们不知道怎么处置他!"
+        ],
+        "token_index": [
+            6,
+            3,
+            8,
+            4,
+            0
+        ],
+        "top_tokens": [
+            "do",
+            "know",
+            "him",
+            "what",
+            "They"
+        ],
+        "logits": [
+            1.6552403394598514e-05,
+            5.791018338641152e-05,
+            0.0002174115797970444,
+            0.0003317271184641868,
+            0.03192669525742531
+        ]
+    },
+    {
+        "en": "Trump promised that if he were elected, the company would stay.\n",
+        "zh": [
+            "特朗普承诺,如果他当选,公司将留下来。"
+        ],
+        "token_index": [
+            12,
+            4,
+            1,
+            2,
+            5
+        ],
+        "top_tokens": [
+            "stay",
+            "if",
+            "rump",
+            "promised",
+            "he"
+        ],
+        "logits": [
+            2.3270324334134784e-08,
+            4.041732637460882e-08,
+            1.673997473972122e-07,
+            9.861727221505134e-07,
+            1.4246762702896376e-06
+        ]
+    },
+    {
+        "en": "We, too, have seen the face of such evil with attacks in places such as Charlottesville, Pittsburgh, and Charleston.\n",
+        "zh": [
+            "我们也在夏洛特斯维尔、匹兹堡和查尔斯顿等地目睹了这种邪恶的面孔。"
+        ],
+        "token_index": [
+            2,
+            25,
+            21,
+            24,
+            15
+        ],
+        "top_tokens": [
+            "too",
+            "ton",
+            "Pittsburgh",
+            "Charles",
+            "such"
+        ],
+        "logits": [
+            1.161503291768895e-06,
+            3.5748885238717776e-06,
+            1.0000085239880718e-05,
+            1.7437718270230107e-05,
+            1.7803218725020997e-05
+        ]
+    },
+    {
+        "en": "And attacking a dead man who spent five years as a prisoner of war and another three decades serving the country in elected office, is simply wrong.\n",
+        "zh": [
+            "而攻击一个作为战俘被关了5年又在民选公职中为国家服务了30年的死人,完全是错的。"
+        ],
+        "token_index": [
+            16,
+            23,
+            17,
+            3,
+            7
+        ],
+        "top_tokens": [
+            "three",
+            "office",
+            "decades",
+            "dead",
+            "five"
+        ],
+        "logits": [
+            1.6511232843186008e-06,
+            1.9830615656246664e-06,
+            3.966315489378758e-06,
+            4.367833298601909e-06,
+            4.779577466251794e-06
+        ]
+    },
+    {
+        "en": "The search warrants released Tuesday say that the special counsel ' s office referred certain aspects of its investigation into Cohen to the New York based US Attorney ' s Office.\n",
+        "zh": [
+            "星期二发布的搜查令称,特别律师办公室将调查科恩的某些方面移交给了设在纽约的美国检察官办公室。"
+        ],
+        "token_index": [
+            21,
+            30,
+            20,
+            25,
+            14
+        ],
+        "top_tokens": [
+            "to",
+            "Office",
+            "Cohen",
+            "based",
+            "certain"
+        ],
+        "logits": [
+            1.597490495441889e-08,
+            2.6723936841221985e-08,
+            1.2690205721810344e-06,
+            1.7694675307211583e-06,
+            2.4936991849244805e-06
+        ]
+    },
+    {
+        "en": "During a question and answer session, however, Nielsen added that other nation states have adopted a more visible approach to doing the same.\n",
+        "zh": [
+            "然而,在问答会上,尼尔森补充道,其他国家也采取了更为明显的方式来做同样的事情。"
+        ],
+        "token_index": [
+            22,
+            21,
+            5,
+            12,
+            26
+        ],
+        "top_tokens": [
+            "approach",
+            "visible",
+            "session",
+            "added",
+            "same"
+        ],
+        "logits": [
+            1.2363053656372358e-06,
+            1.734502006911498e-06,
+            2.1742002900282387e-06,
+            4.936010554956738e-06,
+            1.1463303962955251e-05
+        ]
+    },
+    {
+        "en": "In these top tier public schools, African American and Latino students compose only 19% of the entering class.\n",
+        "zh": [
+            "在这些顶级公立学校中,非裔和拉丁裔学生仅占入门学生的19%。"
+        ],
+        "token_index": [
+            16,
+            12,
+            1,
+            5,
+            10
+        ],
+        "top_tokens": [
+            "19",
+            "students",
+            "these",
+            "schools",
+            "Latin"
+        ],
+        "logits": [
+            5.13454168071803e-09,
+            4.067742338520475e-06,
+            1.4834070498181973e-05,
+            1.9860668544424698e-05,
+            2.3632297597941943e-05
+        ]
+    },
+    {
+        "en": "In a series of pointed tweets, Trump said the economy is good, so Chevy should keep the plant, the closure of which was announced back in November.\n",
+        "zh": [
+            "在一系列尖锐的推特中,特朗普说经济不错,因此雪佛兰应该保留工厂,其关闭是在11月宣布的。"
+        ],
+        "token_index": [
+            2,
+            9,
+            16,
+            27,
+            14
+        ],
+        "top_tokens": [
+            "series",
+            "rump",
+            "so",
+            "which",
+            "good"
+        ],
+        "logits": [
+            2.335802378183871e-07,
+            8.582958344049985e-07,
+            1.7424465568183223e-06,
+            1.8213640942121856e-06,
+            6.8637054937426e-06
+        ]
+    },
+    {
+        "en": "The idling of the General Motors plant in Lordstown, Ohio, is what has angered Trump at the moment.\n",
+        "zh": [
+            "俄亥俄州洛德斯顿通用汽车工厂的闲置,是目前令特朗普恼火的原因。"
+        ],
+        "token_index": [
+            22,
+            17,
+            12,
+            14,
+            16
+        ],
+        "top_tokens": [
+            "rump",
+            "what",
+            "town",
+            "Ohio",
+            "is"
+        ],
+        "logits": [
+            1.3839577661656222e-07,
+            2.935205429821508e-06,
+            1.761327075655572e-05,
+            2.3013913960312493e-05,
+            4.1088133002631366e-05
+        ]
+    },
+    {
+        "en": "Trump has not repaired his relationship with Bannon after a bitter split, people familiar with the two men say.\n",
+        "zh": [
+            "据知情人士称,特朗普与班农的关系在经历了痛苦的分裂之后仍未恢复。"
+        ],
+        "token_index": [
+            7,
+            9,
+            3,
+            13,
+            1
+        ],
+        "top_tokens": [
+            "with",
+            "non",
+            "not",
+            "split",
+            "rump"
+        ],
+        "logits": [
+            7.285188985406421e-07,
+            8.461757374789158e-07,
+            8.624117526778718e-07,
+            3.306806775071891e-06,
+            4.873920261161402e-06
+        ]
+    },
+    {
+        "en": "When asked about the threat from drones, Nielsen said during the Super Bowl the department tried out new defenses and confirmed that we did see drones.\n",
+        "zh": [
+            "当被问及来自无人机的威胁时,尼尔森说,在超级碗期间,部门尝试了新的防御措施,并证实我们确实看到了无人机。"
+        ],
+        "token_index": [
+            21,
+            13,
+            18,
+            16,
+            9
+        ],
+        "top_tokens": [
+            "new",
+            "during",
+            "department",
+            "Bowl",
+            "Ni"
+        ],
+        "logits": [
+            2.9385704536366575e-08,
+            3.5774241951003205e-06,
+            5.07049207953969e-06,
+            5.382320068747504e-06,
+            6.1412006289174315e-06
+        ]
+    },
+    {
+        "en": "Mueller also received warrant approvals on November 7, 2017, and January 4, 2018, to track the numbers of Cohen ' s incoming and outgoing phone calls and other phone call metadata.\n",
+        "zh": [
+            "2017年11月7日、2017年1月4日以及2018年1月4日,穆勒还收到了授权书,以跟踪科恩的进出电话和其他电话元数据。"
+        ],
+        "token_index": [
+            14,
+            13,
+            27,
+            10,
+            31
+        ],
+        "top_tokens": [
+            "4,",
+            "January",
+            "outgoing",
+            "2017",
+            "other"
+        ],
+        "logits": [
+            8.445550747637753e-08,
+            1.7631340654133965e-07,
+            2.0413320100942656e-07,
+            5.985582447465276e-07,
+            7.44862347801245e-07
+        ]
+    },
+    {
+        "en": "The situation at the southern border, which started as a crisis, is now a near system wide meltdown.\n",
+        "zh": [
+            "南部边界的局势一开始只是一场危机,现在几乎是全系统的崩溃。"
+        ],
+        "token_index": [
+            17,
+            19,
+            8,
+            11,
+            4
+        ],
+        "top_tokens": [
+            "system",
+            "meltdown",
+            "started",
+            "crisis",
+            "southern"
+        ],
+        "logits": [
+            1.1333482774489312e-07,
+            7.161550570344843e-07,
+            2.7772939574788325e-06,
+            4.069190254085697e-06,
+            1.4767250831937417e-05
+        ]
+    },
+    {
+        "en": "He was joined by Justices Ruth Bader Ginsburg, Elena Kagan and Sonia Sotomayor.\n",
+        "zh": [
+            "Ruth Bader Ginsburg法官、Elena Kagan法官和Sonia Sotomayor法官与他一道工作。"
+        ],
+        "token_index": [
+            13,
+            15,
+            19,
+            18,
+            17
+        ],
+        "top_tokens": [
+            "Elena",
+            "agan",
+            "So",
+            "nia",
+            "So"
+        ],
+        "logits": [
+            2.0797514752035617e-11,
+            1.2298168039492907e-10,
+            4.167357015028017e-10,
+            4.684759802309202e-10,
+            6.355071491270792e-08
+        ]
+    },
+    {
+        "en": "After pleading guilty in the Manhattan probe, Cohen also later pleaded guilty to lying to Congress in a case brought by Mueller ' s investigators.\n",
+        "zh": [
+            "在曼哈顿调查中认罪后,科恩后来在穆勒的调查人员提出的一宗案件中也向国会认罪。"
+        ],
+        "token_index": [
+            16,
+            20,
+            6,
+            23,
+            21
+        ],
+        "top_tokens": [
+            "to",
+            "case",
+            "Manhattan",
+            "Mu",
+            "brought"
+        ],
+        "logits": [
+            2.625353374696715e-07,
+            1.2294386806388502e-06,
+            1.756241772454814e-06,
+            3.485512024781201e-06,
+            3.846318577416241e-06
+        ]
+    },
+    {
+        "en": "It ' s been a long time in the making.\n",
+        "zh": [
+            "时间太长了。"
+        ],
+        "token_index": [
+            6,
+            5
+        ],
+        "top_tokens": [
+            "time",
+            "long"
+        ],
+        "logits": [
+            1.3035609299549833e-05,
+            1.3882748135074507e-05
+        ]
+    },
+    {
+        "en": "Through his lens, Draper witnessed what he calls a sense of innocence  from the pre 9/11 President Bush, a man who enjoyed driving his pickup truck around the family ranch.\n",
+        "zh": [
+            "从他的镜头中,德拉帕亲眼目睹了9·11事件前的布什总统所说的一种无辜感,布什总统喜欢驾驶他的皮卡在家庭农场里行驶。"
+        ],
+        "token_index": [
+            1,
+            20,
+            25,
+            6,
+            26
+        ],
+        "top_tokens": [
+            "his",
+            "Bush",
+            "enjoyed",
+            "per",
+            "driving"
+        ],
+        "logits": [
+            9.11595122943254e-07,
+            2.8142630981164984e-06,
+            3.3028045436367393e-06,
+            4.531304966803873e-06,
+            5.49823835171992e-06
+        ]
+    },
+    {
+        "en": "Nielsen said the most serious cyber threats are those aimed at the heart of democracy.\n",
+        "zh": [
+            "尼尔森说,最严重的网络威胁是那些针对民主核心的威胁。"
+        ],
+        "token_index": [
+            3,
+            11,
+            0,
+            14,
+            5
+        ],
+        "top_tokens": [
+            "said",
+            "aimed",
+            "Ni",
+            "heart",
+            "most"
+        ],
+        "logits": [
+            4.300915623645096e-09,
+            1.182037522085011e-06,
+            2.6946872822009027e-06,
+            3.3817866551544284e-06,
+            8.252089173765853e-06
+        ]
+    },
+    {
+        "en": "But parents of undergraduates and graduate students face no such limits, and can borrow as much as they need    with the price tag set by schools.\n",
+        "zh": [
+            "但是,本科生和研究生的家长们并没有面对这样的限制,他们可以借到学校设定的价格标价所需的钱。"
+        ],
+        "token_index": [
+            0,
+            20,
+            10,
+            1,
+            23
+        ],
+        "top_tokens": [
+            "But",
+            "need",
+            "such",
+            "parents",
+            "price"
+        ],
+        "logits": [
+            1.170748191725579e-06,
+            3.469946250334033e-06,
+            1.3437036614050157e-05,
+            1.35127247631317e-05,
+            2.4198930987040512e-05
+        ]
+    },
+    {
+        "en": "From an equity perspective, this is just the tip of the iceberg, says Anthony Carnevale, director of the Center on Education and the Workforce at Georgetown University.\n",
+        "zh": [
+            "从公平角度看,这只是冰山一角,乔治敦大学教育中心和劳动力中心主任Anthony Carnevale说。"
+        ],
+        "token_index": [
+            19,
+            17,
+            16,
+            25,
+            30
+        ],
+        "top_tokens": [
+            "val",
+            "Car",
+            "Anthony",
+            "Center",
+            "Work"
+        ],
+        "logits": [
+            4.375259269467913e-12,
+            2.5748403409409093e-09,
+            5.233122823966596e-09,
+            2.419196754033237e-08,
+            3.2470950372953666e-08
+        ]
+    },
+    {
+        "en": "He campaigned on repealing and replacing Obamacare for years and then he got to a vote and he said thumbs down.\n",
+        "zh": [
+            "他发起了运动,要求废除和取代奥巴马医保多年,然后他获得了选票,他说拇指压低了。"
+        ],
+        "token_index": [
+            18,
+            1,
+            15,
+            11,
+            7
+        ],
+        "top_tokens": [
+            "vote",
+            "campaign",
+            "got",
+            "years",
+            "replacing"
+        ],
+        "logits": [
+            9.186217653223139e-07,
+            3.7882846299908124e-06,
+            3.800113972829422e-06,
+            5.922412583458936e-06,
+            1.6156638594111428e-05
+        ]
+    },
+    {
+        "en": "Breyer said far more was at issue in the case than the technical meaning of the words in the immigration statute.\n",
+        "zh": [
+            "Breyer说,与移民法规中字眼的技术含义相比,本案中的问题要多得多。"
+        ],
+        "token_index": [
+            14,
+            2,
+            12,
+            19,
+            8
+        ],
+        "top_tokens": [
+            "technical",
+            "yer",
+            "than",
+            "in",
+            "issue"
+        ],
+        "logits": [
+            6.998569546112776e-08,
+            1.6563971030336688e-06,
+            2.2374908894562395e-06,
+            3.673144874483114e-06,
+            7.660528353881091e-06
+        ]
+    },
+    {
+        "en": "Instead, in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance scheme, investigators write almost 20 pages of detail that are all redacted.\n",
+        "zh": [
+            "相反,在向联邦法官描述他们调查科恩竞选财务计划的可能原因时,调查人员写了近20页细节,全部被修改。"
+        ],
+        "token_index": [
+            25,
+            22,
+            7,
+            2,
+            3
+        ],
+        "top_tokens": [
+            "20",
+            "investigators",
+            "judge",
+            "in",
+            "describing"
+        ],
+        "logits": [
+            3.538912380918191e-07,
+            1.920822342071915e-06,
+            2.2586821160075488e-06,
+            3.2861812542250846e-06,
+            3.7979118587827543e-06
+        ]
+    },
+    {
+        "en": "The South has emerged as a hub of new auto manufacturing by foreign makers thanks to lower manufacturing costs and less powerful unions.\n",
+        "zh": [
+            "由于制造业成本的降低和工会力量的削弱,韩国已成为外国制造商制造新汽车的中心。"
+        ],
+        "token_index": [
+            6,
+            20,
+            4,
+            12,
+            21
+        ],
+        "top_tokens": [
+            "hub",
+            "less",
+            "as",
+            "foreign",
+            "powerful"
+        ],
+        "logits": [
+            2.9232387532829307e-07,
+            3.898743216268485e-06,
+            7.2616962825122755e-06,
+            2.9494738555513322e-05,
+            4.168018131167628e-05
+        ]
+    },
+    {
+        "en": "We see Iran doing that.\n",
+        "zh": [
+            "我们 看到 伊朗 这样 做 。"
+        ],
+        "token_index": [
+            3,
+            2,
+            1,
+            0
+        ],
+        "top_tokens": [
+            "doing",
+            "Iran",
+            "see",
+            "We"
+        ],
+        "logits": [
+            1.1614168471396624e-07,
+            4.611797066900181e-06,
+            0.00027852755738422275,
+            0.007532521616667509
+        ]
+    },
+    {
+        "en": "He said the greater importance of the case lies in the power that the majority opinion grants to the government.\n",
+        "zh": [
+            "他说,这一案件的更大重要性在于多数人的意见赋予政府的权力。"
+        ],
+        "token_index": [
+            11,
+            6,
+            4,
+            16,
+            19
+        ],
+        "top_tokens": [
+            "power",
+            "the",
+            "importance",
+            "grants",
+            "government"
+        ],
+        "logits": [
+            6.779345085305977e-07,
+            2.7057296847488033e-06,
+            5.759949544881238e-06,
+            9.343955753138289e-06,
+            1.633476495044306e-05
+        ]
+    },
+    {
+        "en": "Mueller ' s search warrant justifications related to Cohen that were provided to DC federal court are not yet public.\n",
+        "zh": [
+            "向区法院提供的与Cohen相关的搜查令理由尚未公开。"
+        ],
+        "token_index": [
+            13,
+            8,
+            6,
+            9,
+            20
+        ],
+        "top_tokens": [
+            "provided",
+            "related",
+            "justification",
+            "to",
+            "yet"
+        ],
+        "logits": [
+            9.274868943975889e-07,
+            1.8338445215704269e-06,
+            7.306365660042502e-06,
+            1.462401996832341e-05,
+            1.5386218365165405e-05
+        ]
+    },
+    {
+        "en": "They will love the wringing of hands and woe is me reaction by who they believe to be elites.\n",
+        "zh": [
+            "他们会喜欢手的皱纹,而悲哀是我的反应,他们相信谁是精英。"
+        ],
+        "token_index": [
+            15,
+            12,
+            17,
+            20,
+            2
+        ],
+        "top_tokens": [
+            "who",
+            "me",
+            "believe",
+            "elite",
+            "love"
+        ],
+        "logits": [
+            8.107991561701056e-06,
+            1.267473453481216e-05,
+            1.8731489035417326e-05,
+            2.3084758140612394e-05,
+            4.968566645402461e-05
+        ]
+    },
+    {
+        "en": "A year later, in December of 2017, Ford again shifted plans and announced it would make those electric cars in Mexico after all.\n",
+        "zh": [
+            "一年后,在2017年12月,福特再次改变计划,并宣布将最终在墨西哥制造这些电动汽车。"
+        ],
+        "token_index": [
+            23,
+            5,
+            7,
+            14,
+            2
+        ],
+        "top_tokens": [
+            "Mexico",
+            "December",
+            "2017",
+            "and",
+            "later"
+        ],
+        "logits": [
+            4.723051461041905e-07,
+            6.12173948866257e-07,
+            1.0919429769273847e-06,
+            1.466359208279755e-06,
+            2.561987230365048e-06
+        ]
+    },
+    {
+        "en": "It ' s not just a matter of sending money their way.\n",
+        "zh": [
+            "这不只是给他们汇款的问题。"
+        ],
+        "token_index": [
+            8,
+            4,
+            6,
+            0
+        ],
+        "top_tokens": [
+            "sending",
+            "just",
+            "matter",
+            "It"
+        ],
+        "logits": [
+            3.404620656510815e-06,
+            3.836103132925928e-06,
+            3.103478593402542e-05,
+            7.634019857505336e-05
+        ]
+    },
+    {
+        "en": "Now it will utilize the site to make smaller flat screen panels than originally anticipated.\n",
+        "zh": [
+            "现在,它将利用网站制作比原先预期的更小的平板屏幕板。"
+        ],
+        "token_index": [
+            2,
+            12,
+            14,
+            13,
+            8
+        ],
+        "top_tokens": [
+            "will",
+            "than",
+            "anticipated",
+            "originally",
+            "smaller"
+        ],
+        "logits": [
+            5.642499218083685e-06,
+            7.210496733023319e-06,
+            1.0583664334262721e-05,
+            8.693788549862802e-05,
+            0.00011457437358330935
+        ]
+    },
+    {
+        "en": "Whites compose only 54% of the college age population.\n",
+        "zh": [
+            "白人仅占大学适龄人口的54%。"
+        ],
+        "token_index": [
+            5,
+            4,
+            0,
+            10,
+            11
+        ],
+        "top_tokens": [
+            "54",
+            "only",
+            "White",
+            "age",
+            "population"
+        ],
+        "logits": [
+            2.2625899021022633e-07,
+            2.212983645222266e-06,
+            1.0794965419336222e-05,
+            2.2621456082561053e-05,
+            0.00022589073341805488
+        ]
+    },
+    {
+        "en": "I think drones is a great example of where technology itself is not good or bad.\n",
+        "zh": [
+            "我认为无人机是技术本身不是好或坏的一个很好的例子。"
+        ],
+        "token_index": [
+            7,
+            16,
+            4,
+            6,
+            15
+        ],
+        "top_tokens": [
+            "example",
+            "bad",
+            "is",
+            "great",
+            "or"
+        ],
+        "logits": [
+            1.7324263126283768e-06,
+            1.0282581570209004e-05,
+            3.546956941136159e-05,
+            0.00021196861052885652,
+            0.0002660500176716596
+        ]
+    },
+    {
+        "en": "And they loved it.\n",
+        "zh": [
+            "他们喜欢它。"
+        ],
+        "token_index": [
+            2,
+            3,
+            1
+        ],
+        "top_tokens": [
+            "loved",
+            "it",
+            "they"
+        ],
+        "logits": [
+            6.968829256948084e-05,
+            0.003219158388674259,
+            0.012909318320453167
+        ]
+    },
+    {
+        "en": "Trump was not afraid of slaughtering a sacred cow    or all the sacred cows!\n",
+        "zh": [
+            "特朗普不怕宰杀一头神圣的牛或所有神圣的牛!"
+        ],
+        "token_index": [
+            1,
+            15,
+            4,
+            14,
+            11
+        ],
+        "top_tokens": [
+            "rump",
+            "cows",
+            "afraid",
+            "sacred",
+            "or"
+        ],
+        "logits": [
+            1.6110824390125345e-06,
+            6.232700343389297e-06,
+            1.4979914340074174e-05,
+            1.7137572285719216e-05,
+            3.2378447940573096e-05
+        ]
+    },
+    {
+        "en": "I am very concerned about whether these institutions are doing a good enough job at getting these students to graduation.\n",
+        "zh": [
+            "我非常担心这些院校是否在让这些学生毕业方面做得足够好。"
+        ],
+        "token_index": [
+            19,
+            14,
+            11,
+            6,
+            17
+        ],
+        "top_tokens": [
+            "graduation",
+            "at",
+            "good",
+            "these",
+            "students"
+        ],
+        "logits": [
+            2.466783371346537e-06,
+            7.48528555050143e-06,
+            1.0041609129984863e-05,
+            3.2258900318993255e-05,
+            4.092323797522113e-05
+        ]
+    },
+    {
+        "en": "Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as a funeral train was an honor, he says.\n",
+        "zh": [
+            "他表示,在首都举行悼念仪式,然后前往德州参加另一次葬礼,还有一列葬礼列车,都是一种荣耀。"
+        ],
+        "token_index": [
+            30,
+            14,
+            11,
+            27,
+            5
+        ],
+        "top_tokens": [
+            "says",
+            "to",
+            "and",
+            "honor",
+            "in"
+        ],
+        "logits": [
+            4.879350967712526e-07,
+            3.0700416573381517e-06,
+            5.2030950428161304e-06,
+            1.1871583410538733e-05,
+            1.2901597074232996e-05
+        ]
+    },
+    {
+        "en": "GM has routinely drawn Trump ' s scorn even as Ford has gotten his praise.\n",
+        "zh": [
+            "即使福特赢得了他的称赞,通用汽车也经常遭到特朗普的蔑视。"
+        ],
+        "token_index": [
+            5,
+            9,
+            16,
+            17,
+            3
+        ],
+        "top_tokens": [
+            "rump",
+            "corn",
+            "his",
+            "praise",
+            "drawn"
+        ],
+        "logits": [
+            8.90344420412248e-09,
+            4.8014999975976025e-08,
+            2.2739682492556312e-07,
+            7.421544410135539e-07,
+            9.23339121072786e-06
+        ]
+    },
+    {
+        "en": "It says, he thinks, that he will not let the rules that past crappy politicians have lived by govern him.\n",
+        "zh": [
+            "他认为,他不会让过去那些无赖政客赖以生存的规矩来统治他。"
+        ],
+        "token_index": [
+            22,
+            19,
+            16,
+            7,
+            17
+        ],
+        "top_tokens": [
+            "him",
+            "lived",
+            "crappy",
+            "he",
+            "politicians"
+        ],
+        "logits": [
+            6.203095495038724e-07,
+            1.3533670426113531e-05,
+            2.4291835870826617e-05,
+            3.824903251370415e-05,
+            3.9026414015097544e-05
+        ]
+    },
+    {
+        "en": "President Bush never took himself too seriously.\n",
+        "zh": [
+            "布什总统从不太认真对待自己。"
+        ],
+        "token_index": [
+            6,
+            2,
+            4,
+            1
+        ],
+        "top_tokens": [
+            "seriously",
+            "never",
+            "himself",
+            "Bush"
+        ],
+        "logits": [
+            3.453233148320578e-06,
+            1.8264812752022408e-05,
+            2.554869934101589e-05,
+            0.00016366706404369324
+        ]
+    },
+    {
+        "en": "Cohen is scheduled to report to prison on May 6.\n",
+        "zh": [
+            "科恩计划5月6日到监狱报到。"
+        ],
+        "token_index": [
+            8,
+            5,
+            2,
+            9,
+            0
+        ],
+        "top_tokens": [
+            "May",
+            "to",
+            "scheduled",
+            "6.",
+            "Cohen"
+        ],
+        "logits": [
+            8.713619763511815e-07,
+            1.905853537209623e-06,
+            2.156964910682291e-06,
+            2.318165570613928e-06,
+            5.888628220418468e-05
+        ]
+    },
+    {
+        "en": "Trump, then President elect, was pleased.\n",
+        "zh": [
+            "当时当选总统的特朗普对此感到高兴。"
+        ],
+        "token_index": [
+            8,
+            1,
+            5,
+            4,
+            3
+        ],
+        "top_tokens": [
+            "pleased",
+            "rump",
+            "elect",
+            "President",
+            "then"
+        ],
+        "logits": [
+            1.65041527111498e-08,
+            3.449309815550805e-07,
+            0.000560551939997822,
+            0.0007481108768843114,
+            0.0015215357998386025
+        ]
+    },
+    {
+        "en": "It ' s a shame what ' s happening in Venezuela, the death and the destruction and the hunger.\n",
+        "zh": [
+            "委内瑞拉发生的事情,死亡、破坏和饥饿,真是遗憾。"
+        ],
+        "token_index": [
+            8,
+            19,
+            4,
+            16,
+            17
+        ],
+        "top_tokens": [
+            "happening",
+            "hunger",
+            "shame",
+            "destruction",
+            "and"
+        ],
+        "logits": [
+            3.144917855024687e-07,
+            1.9342351151863113e-06,
+            8.93218930286821e-06,
+            2.656902688613627e-05,
+            3.941810064134188e-05
+        ]
+    },
+    {
+        "en": "The system is breaking.\n",
+        "zh": [
+            "体制正在崩溃。"
+        ],
+        "token_index": [
+            3,
+            1,
+            2
+        ],
+        "top_tokens": [
+            "breaking",
+            "system",
+            "is"
+        ],
+        "logits": [
+            2.118731799782836e-06,
+            8.5959190982976e-06,
+            0.001203971216455102
+        ]
+    },
+    {
+        "en": "He was still an asterisk in most polling.\n",
+        "zh": [
+            "在大多数民调中,他仍是个星号."
+        ],
+        "token_index": [
+            8,
+            2,
+            0,
+            7,
+            6
+        ],
+        "top_tokens": [
+            "most",
+            "still",
+            "He",
+            "in",
+            "risk"
+        ],
+        "logits": [
+            2.596530976006761e-06,
+            5.068491645943141e-06,
+            9.473253157921135e-06,
+            1.8063181414618157e-05,
+            0.0004993442562408745
+        ]
+    },
+    {
+        "en": "Asians represented 12% of the students at the selective public schools and just 5% at the less selective institutions.\n",
+        "zh": [
+            "亚洲人占有选择性公立学校学生的12%,在有选择性的学校只有5%。"
+        ],
+        "token_index": [
+            3,
+            17,
+            7,
+            2,
+            10
+        ],
+        "top_tokens": [
+            "12",
+            "at",
+            "students",
+            "represented",
+            "selective"
+        ],
+        "logits": [
+            1.6113943956952426e-07,
+            5.695051640941529e-06,
+            5.879105628991965e-06,
+            8.931185220717452e-06,
+            1.4450930393650196e-05
+        ]
+    },
+    {
+        "en": "But after being sued by attorneys general from 18 states and the District of Columbia, a court ordered DeVos to implement the rule and forgive $150 million in student debt.\n",
+        "zh": [
+            "但在受到来自18个州和哥伦比亚特区的总检察长起诉后,法院命令德沃斯执行这一规则,并免除1.5亿美元的学生债务。"
+        ],
+        "token_index": [
+            28,
+            1,
+            25,
+            27,
+            6
+        ],
+        "top_tokens": [
+            "$150",
+            "after",
+            "rule",
+            "forgive",
+            "general"
+        ],
+        "logits": [
+            8.844967425147843e-08,
+            3.5722896996048803e-07,
+            1.2911916655866662e-06,
+            3.1361573746835347e-06,
+            6.175920134410262e-06
+        ]
+    },
+    {
+        "en": "But what Trump ' s comments about McCain should remind us of is this: Whether there is political gain to be found in dishonoring a lifelong public servant, it is simply wrong.\n",
+        "zh": [
+            "但特朗普对麦凯恩的评论应该提醒我们注意这一点:无论在贬低一个终身公务员身上是否有政治好处,这都是错误的。"
+        ],
+        "token_index": [
+            37,
+            11,
+            30,
+            3,
+            21
+        ],
+        "top_tokens": [
+            "wrong",
+            "remind",
+            "lifelong",
+            "rump",
+            "gain"
+        ],
+        "logits": [
+            1.8038652171981084e-07,
+            4.982625796401408e-07,
+            6.528918561343744e-07,
+            2.9930770324426703e-06,
+            3.131743824269506e-06
+        ]
+    },
+    {
+        "en": "In public schools, the fight may center on other fronts.\n",
+        "zh": [
+            "在公立学校, 战斗可能集中在其他战线上."
+        ],
+        "token_index": [
+            2,
+            7,
+            10,
+            9,
+            8
+        ],
+        "top_tokens": [
+            "schools",
+            "center",
+            "fronts",
+            "other",
+            "on"
+        ],
+        "logits": [
+            5.729252734454349e-06,
+            7.392720817733789e-06,
+            8.475854883727152e-06,
+            1.1356993127265014e-05,
+            1.2986452020413708e-05
+        ]
+    },
+    {
+        "en": "Young people of color became a majority of K 12 public school students in 2014.\n",
+        "zh": [
+            "2014年,有色青年成为12名公立学校学生的多数。"
+        ],
+        "token_index": [
+            12,
+            6,
+            14,
+            9,
+            4
+        ],
+        "top_tokens": [
+            "students",
+            "majority",
+            "2014.",
+            "12",
+            "became"
+        ],
+        "logits": [
+            9.6498320090177e-07,
+            1.7535710412630579e-06,
+            2.9404325232462725e-06,
+            5.67437882637023e-06,
+            7.946120604174212e-06
+        ]
+    },
+    {
+        "en": "Ultimately, Preap was released from immigration custody but he remains the lead plaintiff for a class of others with similar complaints.\n",
+        "zh": [
+            "最终,Preap被释放出移民拘留所,但他仍然是其他一类人提出类似申诉的主要原告。"
+        ],
+        "token_index": [
+            3,
+            8,
+            13,
+            11,
+            5
+        ],
+        "top_tokens": [
+            "ap",
+            "custody",
+            "lead",
+            "remains",
+            "released"
+        ],
+        "logits": [
+            2.682079980331764e-08,
+            1.3849482627392717e-07,
+            1.783960072998525e-07,
+            3.1290809943129716e-07,
+            8.080481279648666e-07
+        ]
+    },
+    {
+        "en": "But only 6% of them attend private institutions, and though the elite University of California system has significantly increased its Latino enrollment, just 4% attend one of those campuses.\n",
+        "zh": [
+            "但只有6%的人就读于私立院校,尽管加州大学的精英学院系统已经大幅增加了拉丁语的招生人数,但只有4%的人就读于其中一所大学。"
+        ],
+        "token_index": [
+            20,
+            11,
+            1,
+            0,
+            22
+        ],
+        "top_tokens": [
+            "increased",
+            "though",
+            "only",
+            "But",
+            "Latin"
+        ],
+        "logits": [
+            1.0696321339764836e-07,
+            3.026404374395497e-05,
+            4.159062882536091e-05,
+            5.754803351010196e-05,
+            8.579472341807559e-05
+        ]
+    },
+    {
+        "en": "The named plaintiff, Mony Preap, was born in a refugee camp after his family fled Cambodia ' s Khmer Rouge.\n",
+        "zh": [
+            "原告蒙伊·普雷普(Mony Preap)是在其家人逃离柬埔寨红色高棉之后出生在难民营的。"
+        ],
+        "token_index": [
+            7,
+            6,
+            13,
+            22,
+            15
+        ],
+        "top_tokens": [
+            "ap",
+            "Pre",
+            "refugee",
+            "Khmer",
+            "after"
+        ],
+        "logits": [
+            1.2925748249514868e-09,
+            6.012538023014713e-08,
+            2.7828772886095976e-07,
+            5.529469149223587e-07,
+            6.712726872137864e-07
+        ]
+    },
+    {
+        "en": "It ' s certainly true that the number of manufacturing jobs has increased.\n",
+        "zh": [
+            "制造业就业人数确实在增加。"
+        ],
+        "token_index": [
+            7,
+            12,
+            9,
+            10,
+            4
+        ],
+        "top_tokens": [
+            "number",
+            "increased",
+            "manufacturing",
+            "jobs",
+            "true"
+        ],
+        "logits": [
+            1.4704471595905488e-06,
+            3.027415459655458e-06,
+            1.0370359632361215e-05,
+            1.4675250895379577e-05,
+            0.00015960971359163523
+        ]
+    },
+    {
+        "en": "Here ' s what I know: These latest comments will cause zero erosion in Trump ' s support among his hardcore backers.\n",
+        "zh": [
+            "以下是我所知道的:这些最新的评论将导致特朗普支持者支持率的下降。"
+        ],
+        "token_index": [
+            16,
+            9,
+            11,
+            0,
+            5
+        ],
+        "top_tokens": [
+            "rump",
+            "comments",
+            "cause",
+            "Here",
+            "know"
+        ],
+        "logits": [
+            6.037295179339708e-07,
+            7.788586344759096e-07,
+            1.1637366696959361e-05,
+            6.147398380562663e-05,
+            9.013386443257332e-05
+        ]
+    },
+    {
+        "en": "The two men have also both taken advice from Steve Bannon, the former White House senior adviser who broke with Trump after leaving the White House in 2017.\n",
+        "zh": [
+            "两人也都接受了前白宫高级顾问史蒂夫·班农(Steve Bannon)的建议。"
+        ],
+        "token_index": [
+            10,
+            11,
+            9,
+            7,
+            4
+        ],
+        "top_tokens": [
+            "Ban",
+            "non",
+            "Steve",
+            "advice",
+            "also"
+        ],
+        "logits": [
+            9.86109197770313e-13,
+            1.3612080351776967e-07,
+            2.7590209583649994e-07,
+            1.1525162335601635e-06,
+            8.92186290002428e-06
+        ]
+    },
+    {
+        "en": "And he pointed out that Toyota, the Japanese company, is investing in the US by opening new plants.\n",
+        "zh": [
+            "他指出,日本丰田公司(Toyota)正在美国投资,开设新工厂。"
+        ],
+        "token_index": [
+            5,
+            15,
+            19,
+            17,
+            18
+        ],
+        "top_tokens": [
+            "Toyota",
+            "US",
+            "plants",
+            "opening",
+            "new"
+        ],
+        "logits": [
+            1.1696720321197063e-06,
+            3.1250874599209055e-06,
+            4.504187927523162e-06,
+            8.105199412966613e-06,
+            1.0638980711519253e-05
+        ]
+    },
+    {
+        "en": "The proposals came out of the National Council for the American Worker, which President Donald Trump created last year.\n",
+        "zh": [
+            "这些建议出自美国总统唐纳德·特朗普去年创立的美国工人全国委员会。"
+        ],
+        "token_index": [
+            7,
+            16,
+            18,
+            20,
+            15
+        ],
+        "top_tokens": [
+            "Council",
+            "Donald",
+            "rump",
+            "last",
+            "President"
+        ],
+        "logits": [
+            1.9833642284083908e-07,
+            5.784091285931936e-07,
+            7.774247592351458e-07,
+            7.886444564064732e-07,
+            1.3143448086339049e-05
+        ]
+    },
+    {
+        "en": "The most elite public universities admit a considerably larger percentage of students from lower income backgrounds than do the elite private schools.\n",
+        "zh": [
+            "最精英的公立大学录取的低收入学生比例要远远高于精英的私立学校。"
+        ],
+        "token_index": [
+            2,
+            13,
+            12,
+            16,
+            19
+        ],
+        "top_tokens": [
+            "elite",
+            "lower",
+            "from",
+            "than",
+            "elite"
+        ],
+        "logits": [
+            1.2885082867342135e-07,
+            1.9652945866255322e-06,
+            4.774689386977116e-06,
+            4.855868155573262e-06,
+            4.983992312190821e-06
+        ]
+    },
+    {
+        "en": "Looking back at the experience of a lifetime, Draper says he accomplished what he set out to do during his eight years with Bush.\n",
+        "zh": [
+            "回顾一生的经历,德拉帕说他完成了他在布什的八年事业。"
+        ],
+        "token_index": [
+            12,
+            20,
+            16,
+            14,
+            23
+        ],
+        "top_tokens": [
+            "says",
+            "do",
+            "he",
+            "accomplished",
+            "eight"
+        ],
+        "logits": [
+            7.375759309979912e-07,
+            3.6391913454281166e-05,
+            5.052955020801164e-05,
+            6.460455188062042e-05,
+            0.00011098652612417936
+        ]
+    },
+    {
+        "en": "Entering talks, Brazil hoped to see itself elevated to major non NATO ally status by the Trump administration, a major step that would help it purchase military equipment.\n",
+        "zh": [
+            "加入会谈后,巴西希望看到特朗普政府把自己升格为主要的非北约盟友地位,这是帮助其购买军事装备的重要步骤。"
+        ],
+        "token_index": [
+            25,
+            32,
+            12,
+            28,
+            29
+        ],
+        "top_tokens": [
+            "step",
+            "equipment",
+            "non",
+            "help",
+            "it"
+        ],
+        "logits": [
+            3.694508166063315e-08,
+            4.480607884715937e-08,
+            1.2419850747846795e-07,
+            2.12889332829036e-07,
+            4.456982480860461e-07
+        ]
+    },
+    {
+        "en": "It was his tariffs on steel and aluminum that caused frustration between Trump and Harley Davidson, the iconic American motorcycle manufacturer based in Wisconsin.\n",
+        "zh": [
+            "他对钢铁和铝的关税令特朗普和哈雷·戴维森(Harley Davidson)感到沮丧,哈雷是美国著名的摩托车制造商,总部设在威斯康星州。"
+        ],
+        "token_index": [
+            18,
+            28,
+            19,
+            17,
+            26
+        ],
+        "top_tokens": [
+            "ley",
+            "based",
+            "David",
+            "Har",
+            "motorcycle"
+        ],
+        "logits": [
+            5.014836462757799e-11,
+            4.613384785301378e-09,
+            5.713785000693861e-09,
+            3.848688834295899e-08,
+            4.914254603249901e-08
+        ]
+    },
+    {
+        "en": "His trip to Washington was Bolsonaro ' s first overseas bilateral visit, an honor White House officials say illustrates the new president ' s commitment to fostering US ties.\n",
+        "zh": [
+            "鲍尔索纳罗的华盛顿之行是他的首次海外双边访问。 一位尊敬的白宫官员说,这说明了新总统对促进美国关系的承诺。"
+        ],
+        "token_index": [
+            21,
+            27,
+            17,
+            0,
+            29
+        ],
+        "top_tokens": [
+            "illustrates",
+            "commitment",
+            "White",
+            "His",
+            "fostering"
+        ],
+        "logits": [
+            5.4968189999726746e-08,
+            8.76520260817415e-08,
+            3.459623201251816e-07,
+            3.2948723855952267e-06,
+            8.577669177611824e-06
+        ]
+    },
+    {
+        "en": "Today, I am more worried about the ability of bad guys to hijack our networks than their ability to hijack our flights, she said.\n",
+        "zh": [
+            "她说:今天,我更担心的是坏蛋劫持我们网络的能力,而不是他们劫持我们的航班的能力。"
+        ],
+        "token_index": [
+            22,
+            13,
+            5,
+            20,
+            25
+        ],
+        "top_tokens": [
+            "flights",
+            "hijack",
+            "worried",
+            "hijack",
+            "said"
+        ],
+        "logits": [
+            3.385941482747512e-08,
+            8.502595960635517e-08,
+            1.172455554865337e-07,
+            4.1838779907266144e-07,
+            1.0349561989642098e-06
+        ]
+    },
+    {
+        "en": "And our country would've saved a trillion dollars and we would've had great healthcare.\n",
+        "zh": [
+            "而且,我们的国家可以节省一万亿美元,我们也可以享受到很好的医疗保健。"
+        ],
+        "token_index": [
+            12,
+            16,
+            9,
+            6,
+            10
+        ],
+        "top_tokens": [
+            "would",
+            "great",
+            "dollars",
+            "saved",
+            "and"
+        ],
+        "logits": [
+            8.762675633988692e-07,
+            2.8846191071352223e-06,
+            4.141955287195742e-05,
+            7.108220597729087e-05,
+            0.00010705866588978097
+        ]
+    },
+    {
+        "en": "But the owner of Carrier, United Technologies, said it would still move some production to Mexico.\n",
+        "zh": [
+            "但运营商联合技术公司(United Technologies)的老板表示,该公司仍将将一些产品转移到墨西哥。"
+        ],
+        "token_index": [
+            8,
+            18,
+            17,
+            7,
+            15
+        ],
+        "top_tokens": [
+            "Technologies",
+            "Mexico",
+            "to",
+            "United",
+            "some"
+        ],
+        "logits": [
+            6.427717380574904e-08,
+            1.5343452730576246e-07,
+            4.860484068558435e-07,
+            6.807588306401158e-07,
+            1.9557269297365565e-06
+        ]
+    },
+    {
+        "en": "Draper spent eight Christmases with the Bush family and became very close with them.\n",
+        "zh": [
+            "德拉帕和布什一家共度了八次圣诞节,并和他们关系非常密切。"
+        ],
+        "token_index": [
+            14,
+            5,
+            4,
+            3,
+            11
+        ],
+        "top_tokens": [
+            "close",
+            "Christmas",
+            "eight",
+            "spent",
+            "and"
+        ],
+        "logits": [
+            3.7195259210420772e-06,
+            4.156655450060498e-06,
+            8.745302693569101e-06,
+            2.7292431695968844e-05,
+            6.157891039038077e-05
+        ]
+    },
+    {
+        "en": "But those schools represent only a small sliver of the higher education landscape.\n",
+        "zh": [
+            "但是,这些学校只是高等教育的一小部分。"
+        ],
+        "token_index": [
+            6,
+            11,
+            12,
+            1,
+            0
+        ],
+        "top_tokens": [
+            "small",
+            "higher",
+            "education",
+            "those",
+            "But"
+        ],
+        "logits": [
+            1.145233341048879e-06,
+            3.191274799974053e-06,
+            1.6248768588411622e-05,
+            7.246968743856996e-05,
+            9.140065958490595e-05
+        ]
+    },
+    {
+        "en": "Mueller ' s team then handed over that data to the Manhattan federal prosecutors, and the Manhattan prosecutors also sought additional information filtered out of the Mueller searches.\n",
+        "zh": [
+            "然后,穆勒的团队将数据交给曼哈顿的联邦检察官,曼哈顿的检察官也寻求从穆勒搜查中过滤的额外信息。"
+        ],
+        "token_index": [
+            18,
+            10,
+            12,
+            22,
+            19
+        ],
+        "top_tokens": [
+            "Manhattan",
+            "to",
+            "Manhattan",
+            "additional",
+            "prosecutors"
+        ],
+        "logits": [
+            2.543242487718089e-07,
+            3.0221332281143987e-07,
+            3.092826830197737e-07,
+            3.973677280555421e-07,
+            3.6353701489133528e-06
+        ]
+    },
+    {
+        "en": "The threatened tariffs led to the European Union pledging countertariffs.\n",
+        "zh": [
+            "受到 威胁 的 关税 导致 欧洲 联盟 承诺 进行 反 关税 。"
+        ],
+        "token_index": [
+            10,
+            1,
+            3,
+            8,
+            7
+        ],
+        "top_tokens": [
+            "tariff",
+            "threatened",
+            "led",
+            "pledging",
+            "Union"
+        ],
+        "logits": [
+            4.514531415367173e-09,
+            8.612653701334239e-09,
+            3.273933302239129e-08,
+            5.1209664064799654e-08,
+            2.0770028186234413e-07
+        ]
+    },
+    {
+        "en": "Draper, a self described kid from South Central Los Angeles whose life was already at a peak, was not sure it was even a possibility.\n",
+        "zh": [
+            "德拉珀,一个自称来自洛杉矶中南部的小孩,他的生活已经到了顶峰,甚至不确定这是可能。"
+        ],
+        "token_index": [
+            14,
+            13,
+            23,
+            28,
+            5
+        ],
+        "top_tokens": [
+            "life",
+            "whose",
+            "sure",
+            "possibility",
+            "self"
+        ],
+        "logits": [
+            1.2471625723264879e-06,
+            4.258106855559163e-06,
+            4.5645106183656026e-06,
+            5.1846500355168246e-06,
+            5.743999736296246e-06
+        ]
+    },
+    {
+        "en": "In a world of perceived foes, Trump has often looked to leaders who mimic his own brashness and disregard for political norms as allies.\n",
+        "zh": [
+            "在一个有意识的敌人的世界中,特朗普常常看重那些把自己的鲁莽和无视政治规范当作盟友的领导人。"
+        ],
+        "token_index": [
+            14,
+            24,
+            0,
+            27,
+            9
+        ],
+        "top_tokens": [
+            "leaders",
+            "disregard",
+            "In",
+            "norms",
+            "rump"
+        ],
+        "logits": [
+            3.029566357781732e-07,
+            4.1970412212322117e-07,
+            1.607523131497146e-06,
+            2.681940713955555e-06,
+            2.6988516310666455e-06
+        ]
+    },
+    {
+        "en": "Somebody said it reminded them a little bit of our campaign, he said of Bolsonaro ' s effort, which I am honored by.\n",
+        "zh": [
+            "有人说这让他们想起了我们的竞选活动,他谈到博尔索纳罗的努力,我对此深感荣幸。"
+        ],
+        "token_index": [
+            25,
+            20,
+            3,
+            14,
+            12
+        ],
+        "top_tokens": [
+            "honored",
+            "effort",
+            "reminded",
+            "of",
+            "he"
+        ],
+        "logits": [
+            2.6065020364285374e-08,
+            5.994147045385034e-07,
+            1.5935100918795797e-06,
+            1.7025720808305778e-05,
+            2.7959617000306025e-05
+        ]
+    },
+    {
+        "en": "There actually have been more manufacturing job openings recently than people to fill them, according to data from the Bureau of Labor Statistics.\n",
+        "zh": [
+            "根据劳工统计局(Bureau of Labour Statistics)提供的数据,最近制造业职位空缺确实比要填补的人多。"
+        ],
+        "token_index": [
+            23,
+            21,
+            24,
+            9,
+            1
+        ],
+        "top_tokens": [
+            "Labor",
+            "Bureau",
+            "Statistics",
+            "recently",
+            "actually"
+        ],
+        "logits": [
+            1.3291882794419507e-07,
+            1.1956036587434937e-06,
+            2.24212340071972e-06,
+            3.623444854383706e-06,
+            1.3864731045032386e-05
+        ]
+    },
+    {
+        "en": "It ' s an amazing story but I always knew there was an end to it.\n",
+        "zh": [
+            "这是一个令人惊讶的故事,但我一直知道它有一个终结。"
+        ],
+        "token_index": [
+            4,
+            9,
+            6,
+            13,
+            15
+        ],
+        "top_tokens": [
+            "amazing",
+            "knew",
+            "but",
+            "end",
+            "it"
+        ],
+        "logits": [
+            4.0545055526308715e-06,
+            1.3680203664989676e-05,
+            1.4751752132724505e-05,
+            4.836427979171276e-05,
+            0.0013319796416908503
+        ]
+    },
+    {
+        "en": "I think the likelihood that it passes is pretty good in 2022 or 2024, and we should prepare for its passage, he said.\n",
+        "zh": [
+            "我认为它很可能在2022年或2024年通过,我们应该为它的通过做好准备,他说。"
+        ],
+        "token_index": [
+            20,
+            19,
+            26,
+            21,
+            22
+        ],
+        "top_tokens": [
+            "prepare",
+            "should",
+            "said",
+            "for",
+            "its"
+        ],
+        "logits": [
+            1.3273121624024498e-07,
+            2.755547825472604e-07,
+            7.306055067601847e-07,
+            1.0467249467183137e-06,
+            4.981375695933821e-06
+        ]
+    },
+    {
+        "en": "Legalizing recreational marijuana in Florida will likely be on the ballot in upcoming elections, says Brandes, one of the legislators behind the medical marijuana law.\n",
+        "zh": [
+            "支持医疗大麻法的立法者之一布兰德斯说,在佛罗里达州使娱乐大麻合法化可能会在即将到来的选举中进行投票。"
+        ],
+        "token_index": [
+            19,
+            3,
+            14,
+            0,
+            4
+        ],
+        "top_tokens": [
+            "es",
+            "marijuana",
+            "coming",
+            "Legal",
+            "in"
+        ],
+        "logits": [
+            6.072290403835723e-08,
+            1.7221101700215513e-07,
+            2.4648727503517875e-07,
+            4.981772576684307e-07,
+            1.9620238163042814e-06
+        ]
+    },
+    {
+        "en": "Border security and immigration have dominated the department ' s attention and public messaging in recent months.\n",
+        "zh": [
+            "近几个月来,边境安全和移民在海关的注意力和公众信息中占有主导地位。"
+        ],
+        "token_index": [
+            16,
+            1,
+            7,
+            5,
+            12
+        ],
+        "top_tokens": [
+            "months",
+            "security",
+            "department",
+            "dominated",
+            "public"
+        ],
+        "logits": [
+            1.906033872955959e-07,
+            4.654988572383445e-07,
+            4.294490281608887e-06,
+            6.51035270493594e-06,
+            1.2125484317948576e-05
+        ]
+    }
+]

@@ -1,0 +1,2702 @@
+[
+    {
+        "en": "The old rule started to seem dated and out of place.\n",
+        "zh": [
+            "旧的规矩开始显得过时了,不合时宜了."
+        ],
+        "token_index": [
+            8,
+            9,
+            2,
+            7,
+            1
+        ],
+        "top_tokens": [
+            "out",
+            "of",
+            "rule",
+            "and",
+            "old"
+        ],
+        "grad": [
+            0.29874563217163086,
+            0.2688755691051483,
+            0.2581394612789154,
+            0.24775169789791107,
+            0.24364124238491058
+        ]
+    },
+    {
+        "en": "The Commission ordered the company to pay €4.34 billion ($4.9 billion) in July 2018 for unfairly pushing its apps on smartphone users and thwarting competitors.\n",
+        "zh": [
+            "该委员会下令该公司在2018年7月支付43.4亿欧元(合49亿美元),原因是该公司不公平地向智能手机用户推出其应用软件,并挫败竞争对手。"
+        ],
+        "token_index": [
+            1,
+            2,
+            10,
+            11,
+            3
+        ],
+        "top_tokens": [
+            "Commission",
+            "ordered",
+            ".34",
+            "billion",
+            "the"
+        ],
+        "grad": [
+            0.17780134081840515,
+            0.16143155097961426,
+            0.1161162331700325,
+            0.11563599854707718,
+            0.11561170965433121
+        ]
+    },
+    {
+        "en": "Imagine if you're a very large retailer that has a large number of locations, said Martin Fleming, chief economist at IBM.\n",
+        "zh": [
+            "IBM首席经济学家马丁?弗莱明(MartinFleming)说,试想一下,如果你是一家拥有众多地点的大型零售商的话。"
+        ],
+        "token_index": [
+            1,
+            2,
+            16,
+            4,
+            18
+        ],
+        "top_tokens": [
+            "if",
+            "you",
+            "locations",
+            "re",
+            "said"
+        ],
+        "grad": [
+            0.22244375944137573,
+            0.18676838278770447,
+            0.14187082648277283,
+            0.13824868202209473,
+            0.13595135509967804
+        ]
+    },
+    {
+        "en": "Sewing may find some support for a merger among European regulators who argue the region has too many banks.\n",
+        "zh": [
+            "缝纫业可能会为欧洲监管机构合并案找到一些支持,他们认为该地区的银行数量太多。"
+        ],
+        "token_index": [
+            2,
+            1,
+            13,
+            12,
+            14
+        ],
+        "top_tokens": [
+            "may",
+            "wing",
+            "argue",
+            "who",
+            "the"
+        ],
+        "grad": [
+            0.17456242442131042,
+            0.17180654406547546,
+            0.16853106021881104,
+            0.16370853781700134,
+            0.152008056640625
+        ]
+    },
+    {
+        "en": "I really believe that you see a lot of innovation coming from other parts of the world.\n",
+        "zh": [
+            "我确实相信,你看到了来自世界其它地方的许多创新。"
+        ],
+        "token_index": [
+            1,
+            11,
+            2,
+            10,
+            12
+        ],
+        "top_tokens": [
+            "really",
+            "from",
+            "believe",
+            "coming",
+            "other"
+        ],
+        "grad": [
+            0.27082696557044983,
+            0.26978909969329834,
+            0.26332247257232666,
+            0.23271986842155457,
+            0.23099419474601746
+        ]
+    },
+    {
+        "en": "I do not care if it ' s Marc Andreessen or Ben Horowitz, or anyone who is extremely famous or well accomplished, who disagrees with me.\n",
+        "zh": [
+            "我不管是马克·安德列森还是本·霍罗维茨,还是那些对我持异议的非常有名或非常有成就的人。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            23
+        ],
+        "top_tokens": [
+            "do",
+            "not",
+            "care",
+            "if",
+            "extremely"
+        ],
+        "grad": [
+            0.16473270952701569,
+            0.1476452499628067,
+            0.12740986049175262,
+            0.12372291088104248,
+            0.11087144166231155
+        ]
+    },
+    {
+        "en": "They left out that the pilots were not trained to handle it.\n",
+        "zh": [
+            "他们漏掉了飞行员没有受过处理它的培训."
+        ],
+        "token_index": [
+            8,
+            7,
+            6,
+            9,
+            1
+        ],
+        "top_tokens": [
+            "trained",
+            "not",
+            "were",
+            "to",
+            "left"
+        ],
+        "grad": [
+            0.4172372817993164,
+            0.39038142561912537,
+            0.3007854223251343,
+            0.2999870777130127,
+            0.2672714293003082
+        ]
+    },
+    {
+        "en": "When you're in the company, it ' s very clear that you're changing peoples' minds.\n",
+        "zh": [
+            "在公司里,很明显你正在改变人们的想法。"
+        ],
+        "token_index": [
+            14,
+            13,
+            3,
+            1,
+            16
+        ],
+        "top_tokens": [
+            "you",
+            "that",
+            "re",
+            "you",
+            "re"
+        ],
+        "grad": [
+            0.231519877910614,
+            0.22441129386425018,
+            0.20586873590946198,
+            0.20114654302597046,
+            0.17953594028949738
+        ]
+    },
+    {
+        "en": "I am very willing to share my point of view.\n",
+        "zh": [
+            "我非常愿意分享我的观点."
+        ],
+        "token_index": [
+            1,
+            7,
+            8,
+            2,
+            4
+        ],
+        "top_tokens": [
+            "am",
+            "point",
+            "of",
+            "very",
+            "to"
+        ],
+        "grad": [
+            0.46096447110176086,
+            0.44859829545021057,
+            0.4069189727306366,
+            0.4042334258556366,
+            0.38410142064094543
+        ]
+    },
+    {
+        "en": "Critics say the plan has not resolved longstanding questions over the future of Deutsche ' s investment bank, which delivers volatile returns and has lost ground to Wall Street rivals.\n",
+        "zh": [
+            "批评人士说,该计划并未解决德意志投资银行未来长期存在的问题。"
+        ],
+        "token_index": [
+            1,
+            24,
+            2,
+            25,
+            15
+        ],
+        "top_tokens": [
+            "ri",
+            "volatile",
+            "tics",
+            "returns",
+            "Deutsche"
+        ],
+        "grad": [
+            0.18388526141643524,
+            0.16272519528865814,
+            0.149198979139328,
+            0.13642391562461853,
+            0.12401005625724792
+        ]
+    },
+    {
+        "en": "For many academics, there ' s a downside to that: Private companies now create and control much of the raw material necessary to understand the modern world.\n",
+        "zh": [
+            "对许多学者来说,有一个不利因素:私营公司现在创造并控制了理解现代世界所需的大部分原材料。"
+        ],
+        "token_index": [
+            2,
+            1,
+            4,
+            18,
+            19
+        ],
+        "top_tokens": [
+            "academics",
+            "many",
+            "there",
+            "control",
+            "much"
+        ],
+        "grad": [
+            0.16265639662742615,
+            0.1541069746017456,
+            0.11571712046861649,
+            0.10864946991205215,
+            0.10649370402097702
+        ]
+    },
+    {
+        "en": "Holmes settled with the SEC, agreeing to pay a fine and give up her voting control over Theranos, but she and the company did not admit to any wrongdoing.\n",
+        "zh": [
+            "福尔摩斯与证交会达成协议,同意支付罚款,并放弃对瑟拉诺斯的投票控制权,但她和公司没有承认有任何不当行为。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            5,
+            7
+        ],
+        "top_tokens": [
+            "with",
+            "settled",
+            "the",
+            "SEC",
+            "agreeing"
+        ],
+        "grad": [
+            0.11380764096975327,
+            0.11347900331020355,
+            0.11107850819826126,
+            0.10772675275802612,
+            0.10517145693302155
+        ]
+    },
+    {
+        "en": "A lawyer for Elizabeth Holmes declined to comment for this story.\n",
+        "zh": [
+            "伊丽莎白·福尔摩斯的律师拒绝就这个故事发表评论."
+        ],
+        "token_index": [
+            7,
+            8,
+            6,
+            9,
+            1
+        ],
+        "top_tokens": [
+            "comment",
+            "for",
+            "to",
+            "this",
+            "lawyer"
+        ],
+        "grad": [
+            0.3721592426300049,
+            0.3405466377735138,
+            0.2843822240829468,
+            0.25831520557403564,
+            0.2507893443107605
+        ]
+    },
+    {
+        "en": "Since getting his PhD at the University of Minnesota in 1993, he has churned out papers on subjects like home prices, government procurement, auctions and collusion.\n",
+        "zh": [
+            "自从1993年在明尼苏达大学获得博士学位以来,他已经推出了关于房价、政府采购、拍卖和串通等主题的论文。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "top_tokens": [
+            "getting",
+            "his",
+            "PhD",
+            "at",
+            "the"
+        ],
+        "grad": [
+            0.16396206617355347,
+            0.1259869486093521,
+            0.115432970225811,
+            0.11025206744670868,
+            0.09832341969013214
+        ]
+    },
+    {
+        "en": "You should be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work.\n",
+        "zh": [
+            "你应当痛苦地嫉妒我们处理的各种各样的问题和引起我们开始工作的数据规模的焦虑。"
+        ],
+        "token_index": [
+            1,
+            2,
+            22,
+            21,
+            4
+        ],
+        "top_tokens": [
+            "should",
+            "be",
+            "magnitude",
+            "voking",
+            "gon"
+        ],
+        "grad": [
+            0.1593063771724701,
+            0.1328778862953186,
+            0.1127084270119667,
+            0.10912887006998062,
+            0.10263969749212265
+        ]
+    },
+    {
+        "en": "Tired of hearing that she was too introverted, Chan pushed herself out of her comfort zone when she started attending Stanford University for undergrad.\n",
+        "zh": [
+            "陈欣厌倦了听说她太内向了,当她开始在斯坦福大学读低年级时,她把自己从舒适的地方挤了出来。"
+        ],
+        "token_index": [
+            2,
+            3,
+            17,
+            4,
+            1
+        ],
+        "top_tokens": [
+            "of",
+            "hearing",
+            "of",
+            "that",
+            "ed"
+        ],
+        "grad": [
+            0.10618932545185089,
+            0.09832283854484558,
+            0.09580130130052567,
+            0.09530223160982132,
+            0.09528524428606033
+        ]
+    },
+    {
+        "en": "The cool confidence Chan has become known for did not always come easily.\n",
+        "zh": [
+            "清爽的自信已成人皆知,因为不总是来之不易."
+        ],
+        "token_index": [
+            2,
+            8,
+            9,
+            7,
+            3
+        ],
+        "top_tokens": [
+            "confidence",
+            "did",
+            "not",
+            "for",
+            "Chan"
+        ],
+        "grad": [
+            0.2358543872833252,
+            0.2255685031414032,
+            0.21033334732055664,
+            0.2065788060426712,
+            0.18746885657310486
+        ]
+    },
+    {
+        "en": "It declined to ground the jet.\n",
+        "zh": [
+            "它拒绝在喷气式飞机上着陆."
+        ],
+        "token_index": [
+            5,
+            4,
+            3,
+            2,
+            1
+        ],
+        "top_tokens": [
+            "jet",
+            "the",
+            "ground",
+            "to",
+            "declined"
+        ],
+        "grad": [
+            0.7172989249229431,
+            0.5816294550895691,
+            0.48174840211868286,
+            0.45322081446647644,
+            0.41924595832824707
+        ]
+    },
+    {
+        "en": "The employee, who has since taken a new job, admits this time off was a luxury most may not have had.\n",
+        "zh": [
+            "从那以后又找了份新工作的那名员工承认,这次休假是一种奢侈品,可能最没有这种奢侈品。"
+        ],
+        "token_index": [
+            1,
+            16,
+            15,
+            3,
+            9
+        ],
+        "top_tokens": [
+            "employee",
+            "was",
+            "off",
+            "who",
+            "job"
+        ],
+        "grad": [
+            0.1362701654434204,
+            0.11577299237251282,
+            0.10662075132131577,
+            0.1053939238190651,
+            0.1009574681520462
+        ]
+    },
+    {
+        "en": "The headlines in the papers called it the 'Deadly 727.'\n",
+        "zh": [
+            "报纸的头条称之为“死亡的727”。"
+        ],
+        "token_index": [
+            1,
+            11,
+            12,
+            2,
+            13
+        ],
+        "top_tokens": [
+            "head",
+            "De",
+            "ad",
+            "line",
+            "ly"
+        ],
+        "grad": [
+            0.24764594435691833,
+            0.22387926280498505,
+            0.21897920966148376,
+            0.19924227893352509,
+            0.19512376189231873
+        ]
+    },
+    {
+        "en": "An endless job search compounded by fears of being blacklisted by certain businesses.\n",
+        "zh": [
+            "找工作无休止,再加上担心某些企业会被黑名单登上。"
+        ],
+        "token_index": [
+            9,
+            10,
+            8,
+            1,
+            2
+        ],
+        "top_tokens": [
+            "black",
+            "listed",
+            "being",
+            "endless",
+            "job"
+        ],
+        "grad": [
+            0.2456359565258026,
+            0.22782135009765625,
+            0.1980508416891098,
+            0.18895399570465088,
+            0.1856829673051834
+        ]
+    },
+    {
+        "en": "Other tech companies that also make effective use of economists — like Uber, which has a 30 person team — speak with frank admiration of the apparatus Amazon has built.\n",
+        "zh": [
+            "也有效运用经济学家的其他科技公司——如拥有30人团队的乌伯(Uber)——坦率地赞美亚马逊(Amazon)所建造的仪器。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            9,
+            8
+        ],
+        "top_tokens": [
+            "tech",
+            "companies",
+            "that",
+            "economists",
+            "of"
+        ],
+        "grad": [
+            0.1768731027841568,
+            0.16621871292591095,
+            0.14411117136478424,
+            0.1407269835472107,
+            0.13329489529132843
+        ]
+    },
+    {
+        "en": "They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems, the former Amazon staffer said.\n",
+        "zh": [
+            "亚马逊的前员工说,他们指出经济学家拥有更为具体的技能组合,这些技能组合更适合应对许多商业问题。"
+        ],
+        "token_index": [
+            1,
+            2,
+            19,
+            20,
+            17
+        ],
+        "top_tokens": [
+            "kind",
+            "of",
+            "lot",
+            "of",
+            "for"
+        ],
+        "grad": [
+            0.14851202070713043,
+            0.1260652244091034,
+            0.11934524029493332,
+            0.1147817000746727,
+            0.11357072740793228
+        ]
+    },
+    {
+        "en": "And do not forget about your body language when receiving the compliment.\n",
+        "zh": [
+            "接受恭维时,不要忘记肢体语言。"
+        ],
+        "token_index": [
+            8,
+            9,
+            10,
+            7,
+            2
+        ],
+        "top_tokens": [
+            "when",
+            "receiving",
+            "the",
+            "language",
+            "not"
+        ],
+        "grad": [
+            0.3697589635848999,
+            0.3545170724391937,
+            0.26241254806518555,
+            0.2589176595211029,
+            0.23561236262321472
+        ]
+    },
+    {
+        "en": "From our perspective, this potential merger would not create a business model that is sustainable long term, added Duscheck, who is a member of Deutsche Bank ' s supervisory board.\n",
+        "zh": [
+            "德意志银行(Deutsche Bank)监理委员会成员杜斯克(Dusceck)补充道,从我们的观点来看,这种潜在的合并不会创造一个长期可持续的商业模式。"
+        ],
+        "token_index": [
+            2,
+            1,
+            4,
+            6,
+            7
+        ],
+        "top_tokens": [
+            "perspective",
+            "our",
+            "this",
+            "merger",
+            "would"
+        ],
+        "grad": [
+            0.19151517748832703,
+            0.1883794665336609,
+            0.1211232915520668,
+            0.11517553776502609,
+            0.11165501177310944
+        ]
+    },
+    {
+        "en": "And probing questions from outsiders on how they could ever have worked at the disgraced company.\n",
+        "zh": [
+            "并探询外界关于他们如何能在这家声名狼藉的公司工作的问题。"
+        ],
+        "token_index": [
+            1,
+            12,
+            14,
+            13,
+            3
+        ],
+        "top_tokens": [
+            "pro",
+            "ever",
+            "worked",
+            "have",
+            "ing"
+        ],
+        "grad": [
+            0.2043766975402832,
+            0.1710166186094284,
+            0.16560602188110352,
+            0.16546767950057983,
+            0.1577928513288498
+        ]
+    },
+    {
+        "en": "The investigators were right that the airplane itself was safe.\n",
+        "zh": [
+            "调查人员说飞机本身是安全的,这是对的。"
+        ],
+        "token_index": [
+            8,
+            7,
+            9,
+            6,
+            5
+        ],
+        "top_tokens": [
+            "was",
+            "itself",
+            "safe",
+            "airplane",
+            "the"
+        ],
+        "grad": [
+            0.3220715820789337,
+            0.2982051372528076,
+            0.2686734199523926,
+            0.2628076672554016,
+            0.23150475323200226
+        ]
+    },
+    {
+        "en": "Patrick O'Neill, the former chief creative officer at Theranos from 2014 to 2017, said he has removed much of his promotional work for the company from his professional website.\n",
+        "zh": [
+            "”2014年至2017年,Theranos前创作总监帕特里克?奥尼尔(Patrick O'Neill)表示,他已在专业网站上删除了自己为公司所做的大部分推广工作。"
+        ],
+        "token_index": [
+            3,
+            5,
+            11,
+            10,
+            7
+        ],
+        "top_tokens": [
+            "Ne",
+            "ll",
+            "officer",
+            "creative",
+            "the"
+        ],
+        "grad": [
+            0.18832558393478394,
+            0.13405460119247437,
+            0.13319437205791473,
+            0.13153314590454102,
+            0.1310334950685501
+        ]
+    },
+    {
+        "en": "From November 2016 to September 2018, the company was hit with five discrimination lawsuits and charges from civil rights and labor organizations, workers and individuals.\n",
+        "zh": [
+            "2016年11月至2018年9月,民权组织和工会、工人和个人向该公司提起了五起歧视诉讼和指控。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "top_tokens": [
+            "November",
+            "2016",
+            "to",
+            "September",
+            "2018"
+        ],
+        "grad": [
+            0.2287398874759674,
+            0.19496195018291473,
+            0.12656623125076294,
+            0.1207333356142044,
+            0.11302982270717621
+        ]
+    },
+    {
+        "en": "First, proper training for pilots who are flying new aircraft is crucially important.\n",
+        "zh": [
+            "首先,对正在驾驶新飞机的飞行员进行适当的培训至关重要。"
+        ],
+        "token_index": [
+            10,
+            9,
+            11,
+            2,
+            8
+        ],
+        "top_tokens": [
+            "aircraft",
+            "new",
+            "is",
+            "proper",
+            "flying"
+        ],
+        "grad": [
+            0.3051755130290985,
+            0.26800352334976196,
+            0.2636914849281311,
+            0.2485872507095337,
+            0.22715960443019867
+        ]
+    },
+    {
+        "en": "Advertisers who are not creating housing, employment or credit ads will still be able to target users based on those categories.\n",
+        "zh": [
+            "没有创造住房、就业和信贷广告的广告商仍然能够根据这些类别针对用户。"
+        ],
+        "token_index": [
+            2,
+            17,
+            18,
+            16,
+            1
+        ],
+        "top_tokens": [
+            "iser",
+            "be",
+            "able",
+            "still",
+            "vert"
+        ],
+        "grad": [
+            0.23634904623031616,
+            0.22062177956104279,
+            0.20102551579475403,
+            0.1929231435060501,
+            0.17990395426750183
+        ]
+    },
+    {
+        "en": "Unlike economists in academia or government, the work of Amazon ' s economists is almost entirely secret, and staff are required to sign non disclosure agreements to keep it that way.\n",
+        "zh": [
+            "与学术界或政府的经济学家不同,亚马逊经济学家的工作几乎是完全保密的,员工必须签署非披露协议才能保持这种状态。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "top_tokens": [
+            "economists",
+            "in",
+            "academia",
+            "or",
+            "government"
+        ],
+        "grad": [
+            0.15766091644763947,
+            0.1503325253725052,
+            0.12675757706165314,
+            0.11416760087013245,
+            0.09912973642349243
+        ]
+    },
+    {
+        "en": "Anxiety over flying on Boeing ' s 737 Max planes reached a fever pitch after the crash in Ethiopia.\n",
+        "zh": [
+            "在埃塞俄比亚坠机后,对在波音737的Max飞机上飞行的焦虑达到了发烧的地步。"
+        ],
+        "token_index": [
+            2,
+            17,
+            3,
+            15,
+            4
+        ],
+        "top_tokens": [
+            "iety",
+            "fever",
+            "over",
+            "reached",
+            "flying"
+        ],
+        "grad": [
+            0.21752449870109558,
+            0.18593774735927582,
+            0.17918652296066284,
+            0.1644696444272995,
+            0.1591663956642151
+        ]
+    },
+    {
+        "en": "And happily, I was not in the book.\n",
+        "zh": [
+            "高兴的是我,我没有在书中。"
+        ],
+        "token_index": [
+            8,
+            7,
+            1,
+            6,
+            4
+        ],
+        "top_tokens": [
+            "book",
+            "the",
+            "happily",
+            "in",
+            "was"
+        ],
+        "grad": [
+            0.3633498549461365,
+            0.32842373847961426,
+            0.2557697892189026,
+            0.23425287008285522,
+            0.1975560337305069
+        ]
+    },
+    {
+        "en": "As the day draws nearer, we need to recognize that there are risks that are out of the sector ' s control, said Omar Ali, head of UK financial services at EY.\n",
+        "zh": [
+            "英国EY金融服务主管奥马尔?阿里(Omar Ali)表示,随着这一天的临近,我们需要认识到,有一些风险超出了该部门的掌控范围。"
+        ],
+        "token_index": [
+            2,
+            3,
+            1,
+            5,
+            6
+        ],
+        "top_tokens": [
+            "day",
+            "draw",
+            "the",
+            "near",
+            "er"
+        ],
+        "grad": [
+            0.2130608856678009,
+            0.1880890429019928,
+            0.18562711775302887,
+            0.13853122293949127,
+            0.1358070820569992
+        ]
+    },
+    {
+        "en": "A simple response of thank you very much, I appreciate you saying that or thank you, I worked very hard on it can suffice.\n",
+        "zh": [
+            "简单的说,谢谢您,我很感激您说,或者说谢谢您,我非常努力工作就够了。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            16
+        ],
+        "top_tokens": [
+            "simple",
+            "response",
+            "of",
+            "thank",
+            "you"
+        ],
+        "grad": [
+            0.2793236970901489,
+            0.23847416043281555,
+            0.1772124022245407,
+            0.15379588305950165,
+            0.12787652015686035
+        ]
+    },
+    {
+        "en": "But some former employees say they too were left in the dark, both about the viability of the technology and the financial health of the company.\n",
+        "zh": [
+            "但一些前员工表示,他们也陷入了黑暗之中,既关注技术的可行性,也关注公司的财务状况。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            17,
+            18
+        ],
+        "top_tokens": [
+            "former",
+            "some",
+            "employees",
+            "of",
+            "the"
+        ],
+        "grad": [
+            0.17618109285831451,
+            0.14532673358917236,
+            0.14268071949481964,
+            0.14082123339176178,
+            0.13893426954746246
+        ]
+    },
+    {
+        "en": "Daryl Fairweather joined the company soon after receiving her PhD in economics from the University of Chicago in 2014.\n",
+        "zh": [
+            "2014年,达里尔·费尔韦瑟在芝加哥大学获得经济学博士学位后不久就加入了公司。"
+        ],
+        "token_index": [
+            1,
+            2,
+            12,
+            14,
+            10
+        ],
+        "top_tokens": [
+            "Fair",
+            "weather",
+            "economic",
+            "from",
+            "PhD"
+        ],
+        "grad": [
+            0.1590723693370819,
+            0.15746591985225677,
+            0.14841656386852264,
+            0.13880279660224915,
+            0.13679027557373047
+        ]
+    },
+    {
+        "en": "They're doing something completely different.\n",
+        "zh": [
+            "他们正在做一些完全不同的事。"
+        ],
+        "token_index": [
+            6,
+            5,
+            4,
+            2,
+            3
+        ],
+        "top_tokens": [
+            "different",
+            "completely",
+            "something",
+            "re",
+            "doing"
+        ],
+        "grad": [
+            0.5429652333259583,
+            0.45771539211273193,
+            0.3628828525543213,
+            0.3178829848766327,
+            0.3086426854133606
+        ]
+    },
+    {
+        "en": "The other big draw: Even though the work Amazon ' s economists do may never see the light of day, within the company, it influences decisions that affect millions of people.\n",
+        "zh": [
+            "另一大诱人之处是:尽管亚马逊经济学家的工作可能永远不会在公司内部看到光明,但它影响着影响数百万人的决策。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            9,
+            5
+        ],
+        "top_tokens": [
+            "big",
+            "other",
+            "draw",
+            "Amazon",
+            "Even"
+        ],
+        "grad": [
+            0.14710228145122528,
+            0.1412198543548584,
+            0.12434230744838715,
+            0.11111067235469818,
+            0.10414447635412216
+        ]
+    },
+    {
+        "en": "The number of jobs that will be relocated out of the United Kingdom in the near future stands at 7,000, according to EY.\n",
+        "zh": [
+            "据EY称,在不久的将来将迁出联合王国的就业机会为7 000人。"
+        ],
+        "token_index": [
+            1,
+            2,
+            16,
+            15,
+            17
+        ],
+        "top_tokens": [
+            "number",
+            "of",
+            "future",
+            "near",
+            "stands"
+        ],
+        "grad": [
+            0.2544335126876831,
+            0.22551140189170837,
+            0.21532855927944183,
+            0.2109154909849167,
+            0.20856821537017822
+        ]
+    },
+    {
+        "en": "It is believed in the field that Amazon employs more PhD economists than any other tech company.\n",
+        "zh": [
+            "亚马逊比其他任何科技公司雇用的博士经济学家都多。"
+        ],
+        "token_index": [
+            11,
+            1,
+            12,
+            10,
+            13
+        ],
+        "top_tokens": [
+            "economists",
+            "is",
+            "than",
+            "PhD",
+            "any"
+        ],
+        "grad": [
+            0.23537924885749817,
+            0.21631570160388947,
+            0.21313388645648956,
+            0.20760565996170044,
+            0.1764267235994339
+        ]
+    },
+    {
+        "en": "They are in charge of their routines, and they can find all the information they need from their friends or from other women in the world and online.\n",
+        "zh": [
+            "她们负责她们的例行公事,她们可以从朋友或世界其他妇女那里在线找到她们需要的所有信息。"
+        ],
+        "token_index": [
+            18,
+            17,
+            19,
+            2,
+            4
+        ],
+        "top_tokens": [
+            "from",
+            "need",
+            "their",
+            "in",
+            "of"
+        ],
+        "grad": [
+            0.14969925582408905,
+            0.14039546251296997,
+            0.13764025270938873,
+            0.1341996043920517,
+            0.13061536848545074
+        ]
+    },
+    {
+        "en": "Feedback, both negative and positive, should be a frequent occurrence in the workplace.\n",
+        "zh": [
+            "无论是正面还是负面的反馈,都应是工作场所经常出现的。"
+        ],
+        "token_index": [
+            10,
+            11,
+            8,
+            2,
+            7
+        ],
+        "top_tokens": [
+            "frequent",
+            "occurrence",
+            "be",
+            "both",
+            "should"
+        ],
+        "grad": [
+            0.3222235441207886,
+            0.26787999272346497,
+            0.25692257285118103,
+            0.21494975686073303,
+            0.21287038922309875
+        ]
+    },
+    {
+        "en": "The former employee is now looking for new career opportunities outside their field of expertise after hitting a road block in the job search.\n",
+        "zh": [
+            "这位前雇员在求职中遇到重重障碍后,现在正在他们专业领域之外寻找新的就业机会。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            16,
+            4
+        ],
+        "top_tokens": [
+            "employee",
+            "former",
+            "is",
+            "hitting",
+            "now"
+        ],
+        "grad": [
+            0.2685106694698334,
+            0.232841357588768,
+            0.18785060942173004,
+            0.163625568151474,
+            0.16067342460155487
+        ]
+    },
+    {
+        "en": "But Boeing did get past the 727 crisis.\n",
+        "zh": [
+            "但波音确实度过了727场危机。"
+        ],
+        "token_index": [
+            9,
+            1,
+            7,
+            10,
+            6
+        ],
+        "top_tokens": [
+            "27",
+            "Bo",
+            "the",
+            "crisis",
+            "past"
+        ],
+        "grad": [
+            0.3259797692298889,
+            0.3044719696044922,
+            0.30063021183013916,
+            0.2546541690826416,
+            0.24382269382476807
+        ]
+    },
+    {
+        "en": "A merger is one potential way forward; other options include a complete retreat from Wall Street (more likely) or major new investment in the investment bank (less likely).\n",
+        "zh": [
+            "合并是一条潜在的前进之路; 其他选择包括完全退出华尔街(更有可能)或投资银行(不太可能)进行重大新投资。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "top_tokens": [
+            "merger",
+            "is",
+            "one",
+            "potential",
+            "way"
+        ],
+        "grad": [
+            0.17518149316310883,
+            0.15530861914157867,
+            0.13686831295490265,
+            0.1284157782793045,
+            0.1133202388882637
+        ]
+    },
+    {
+        "en": "And this would take us closer to our goal of a truly European banking sector.\n",
+        "zh": [
+            "这将使我们更接近于建立真正欧洲银行业的目标。"
+        ],
+        "token_index": [
+            11,
+            9,
+            12,
+            8,
+            1
+        ],
+        "top_tokens": [
+            "truly",
+            "of",
+            "European",
+            "goal",
+            "this"
+        ],
+        "grad": [
+            0.3015635311603546,
+            0.28410807251930237,
+            0.22523269057273865,
+            0.20252080261707306,
+            0.19874176383018494
+        ]
+    },
+    {
+        "en": "When you do not acknowledge the positive feedback you have been given, it will contribute unconsciously to the narrative that you are not as capable as you might really be, said Aced Molina.\n",
+        "zh": [
+            "Aced Molina说,当你不承认你得到的积极反馈时,就会无意识地帮助你讲述自己没有真正能力的故事。"
+        ],
+        "token_index": [
+            25,
+            24,
+            1,
+            4,
+            26
+        ],
+        "top_tokens": [
+            "as",
+            "not",
+            "you",
+            "acknowledge",
+            "capable"
+        ],
+        "grad": [
+            0.13485929369926453,
+            0.13320578634738922,
+            0.131500244140625,
+            0.12850983440876007,
+            0.12847396731376648
+        ]
+    },
+    {
+        "en": "Three months later, Holmes was indicted on federal wire fraud charges and stepped down from Theranos.\n",
+        "zh": [
+            "三个月后,福尔摩斯因联邦电讯欺诈指控被起诉,并被从Theranos撤职。"
+        ],
+        "token_index": [
+            2,
+            1,
+            4,
+            13,
+            12
+        ],
+        "top_tokens": [
+            "later",
+            "months",
+            "Holmes",
+            "stepped",
+            "and"
+        ],
+        "grad": [
+            0.20260530710220337,
+            0.17660404741764069,
+            0.16872026026248932,
+            0.16321003437042236,
+            0.16036340594291687
+        ]
+    },
+    {
+        "en": "According to the Commission, Google blocked its rivals from placing advertisements on third party websites by imposing exclusivity clauses in AdSense contracts.\n",
+        "zh": [
+            "据委员会称,谷歌(Google)通过在AdSense合同中引入排他性条款,阻止其竞争对手在第三方网站上发布广告。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            17,
+            18
+        ],
+        "top_tokens": [
+            "the",
+            "to",
+            "Commission",
+            "by",
+            "imposing"
+        ],
+        "grad": [
+            0.21242520213127136,
+            0.20602771639823914,
+            0.17793868482112885,
+            0.15636542439460754,
+            0.1453208029270172
+        ]
+    },
+    {
+        "en": "I've taken on this kind of 'why not' attitude.\n",
+        "zh": [
+            "我采取过这种“何不”的态度。"
+        ],
+        "token_index": [
+            9,
+            2,
+            4,
+            10,
+            3
+        ],
+        "top_tokens": [
+            "why",
+            "ve",
+            "on",
+            "not",
+            "taken"
+        ],
+        "grad": [
+            0.322636216878891,
+            0.26355889439582825,
+            0.25201836228370667,
+            0.24238060414791107,
+            0.2402382791042328
+        ]
+    },
+    {
+        "en": "I think a lot of us were in denial, said another former employee who continued working at the company after the Wall Street Journal story.\n",
+        "zh": [
+            "在《华尔街日报》(WallStreetJournal)报道后,另一位在公司继续工作的前员工说:“我认为,我们中的很多人对此持否定态度。"
+        ],
+        "token_index": [
+            17,
+            1,
+            16,
+            3,
+            18
+        ],
+        "top_tokens": [
+            "at",
+            "think",
+            "working",
+            "lot",
+            "the"
+        ],
+        "grad": [
+            0.19824019074440002,
+            0.19798621535301208,
+            0.1809057593345642,
+            0.1707444041967392,
+            0.16404743492603302
+        ]
+    },
+    {
+        "en": "Public concern about aircraft that have crashed is typically short lived, said aviation author and historian Brian Baum.\n",
+        "zh": [
+            "民航作者和历史学家布赖恩·鲍姆说,公众对坠毁飞机的担忧通常都是短暂的。"
+        ],
+        "token_index": [
+            1,
+            13,
+            12,
+            8,
+            10
+        ],
+        "top_tokens": [
+            "concern",
+            "aviation",
+            "said",
+            "typically",
+            "lived"
+        ],
+        "grad": [
+            0.14187614619731903,
+            0.14141184091567993,
+            0.13617922365665436,
+            0.13546231389045715,
+            0.13094916939735413
+        ]
+    },
+    {
+        "en": "You could interview for lots of jobs at the same time, said Fairweather, who left Amazon in 2018 to become the chief economist for the real estate website Redfin.\n",
+        "zh": [
+            "2018年离开亚马逊(Amazon)的Fairweather说,你可以同时面试很多工作,成为房地产网站Redfin的首席经济学家。"
+        ],
+        "token_index": [
+            1,
+            2,
+            4,
+            6,
+            7
+        ],
+        "top_tokens": [
+            "could",
+            "interview",
+            "lots",
+            "jobs",
+            "at"
+        ],
+        "grad": [
+            0.212773859500885,
+            0.20738272368907928,
+            0.1706760823726654,
+            0.17064881324768066,
+            0.16502761840820312
+        ]
+    },
+    {
+        "en": "The key to accepting praise at work is to show you received it and appreciate it.\n",
+        "zh": [
+            "在工作中接受表扬的关键是要向你展示得到的表扬,并感激它。"
+        ],
+        "token_index": [
+            10,
+            9,
+            11,
+            12,
+            2
+        ],
+        "top_tokens": [
+            "you",
+            "show",
+            "received",
+            "it",
+            "to"
+        ],
+        "grad": [
+            0.3018578588962555,
+            0.2690391540527344,
+            0.2568708062171936,
+            0.1968868225812912,
+            0.1921369731426239
+        ]
+    },
+    {
+        "en": "Because if you're writing an economics paper, you're studying things like the impact of the minimum wage, often without the luxury of running experiments.\n",
+        "zh": [
+            "因为如果你正在写一篇经济学论文,你正在研究诸如最低工资的影响之类的事情,通常没有进行实验的奢侈品。"
+        ],
+        "token_index": [
+            2,
+            1,
+            4,
+            20,
+            5
+        ],
+        "top_tokens": [
+            "you",
+            "if",
+            "re",
+            "the",
+            "writing"
+        ],
+        "grad": [
+            0.19376635551452637,
+            0.16842308640480042,
+            0.13389982283115387,
+            0.11928382515907288,
+            0.11381957679986954
+        ]
+    },
+    {
+        "en": "Glossier ' s two brick and mortar stores are full of Instagram friendly decor throughout the space, which encourage visitors to take photos and share them on social media.\n",
+        "zh": [
+            "Glossier的两家砖头和砂浆店到处都是英stagram的友好装饰品,鼓励游客在社交媒体上拍照和分享。"
+        ],
+        "token_index": [
+            1,
+            2,
+            24,
+            6,
+            7
+        ],
+        "top_tokens": [
+            "loss",
+            "ier",
+            "encourage",
+            "brick",
+            "and"
+        ],
+        "grad": [
+            0.17685769498348236,
+            0.15887922048568726,
+            0.10580726712942123,
+            0.10556548833847046,
+            0.10079445689916611
+        ]
+    },
+    {
+        "en": "Economists can come close to an answer, enabling the company to make better decisions about which benefits to include and which to scrap.\n",
+        "zh": [
+            "经济学家可以接近于一个答案,让公司能够做出更好的决定,包括哪些好处和哪些好处可以报废。"
+        ],
+        "token_index": [
+            2,
+            3,
+            17,
+            16,
+            9
+        ],
+        "top_tokens": [
+            "can",
+            "come",
+            "which",
+            "about",
+            "enabling"
+        ],
+        "grad": [
+            0.18556161224842072,
+            0.16618317365646362,
+            0.15671007335186005,
+            0.15518121421337128,
+            0.1488673985004425
+        ]
+    },
+    {
+        "en": "Google now says it has about 300 economists and statisticians on staff, though it would not give a more detailed breakdown.\n",
+        "zh": [
+            "谷歌(Google)表示,在员工中约有300名经济学家和统计师,但不会给出更详细的分类。"
+        ],
+        "token_index": [
+            1,
+            2,
+            14,
+            15,
+            3
+        ],
+        "top_tokens": [
+            "now",
+            "says",
+            "it",
+            "would",
+            "it"
+        ],
+        "grad": [
+            0.1777483969926834,
+            0.1744372546672821,
+            0.15982292592525482,
+            0.15910601615905762,
+            0.15044890344142914
+        ]
+    },
+    {
+        "en": "The duration was reflected in the size of the fine, she added.\n",
+        "zh": [
+            "她补充说,罚款的金额反映了持续时间。"
+        ],
+        "token_index": [
+            9,
+            8,
+            1,
+            7,
+            2
+        ],
+        "top_tokens": [
+            "fine",
+            "the",
+            "duration",
+            "of",
+            "was"
+        ],
+        "grad": [
+            0.35071611404418945,
+            0.30954286456108093,
+            0.2464737892150879,
+            0.21006207168102264,
+            0.20162494480609894
+        ]
+    },
+    {
+        "en": "It eventually sold 1,831 of the jets, nearly twice as many as the rival DC 9.\n",
+        "zh": [
+            "它最终卖出了1,831架喷气式飞机,几乎是竞争对手DC9的两倍。"
+        ],
+        "token_index": [
+            1,
+            12,
+            13,
+            2,
+            11
+        ],
+        "top_tokens": [
+            "eventually",
+            "twice",
+            "as",
+            "sold",
+            "nearly"
+        ],
+        "grad": [
+            0.22284112870693207,
+            0.18210655450820923,
+            0.17299290001392365,
+            0.1715455949306488,
+            0.17093725502490997
+        ]
+    },
+    {
+        "en": "Sunday ' s announcement triggered immediate pushback from staff representatives, who occupy half the seats on Deutsche Bank ' s supervisory board.\n",
+        "zh": [
+            "周日的公告引发了员工代表的立即回调,他们占据了德意志银行监督委员会(Deutsche Bank's communicational board)一半的席位。"
+        ],
+        "token_index": [
+            4,
+            3,
+            5,
+            6,
+            7
+        ],
+        "top_tokens": [
+            "triggered",
+            "announcement",
+            "immediate",
+            "push",
+            "back"
+        ],
+        "grad": [
+            0.20368236303329468,
+            0.1944837123155594,
+            0.18981590867042542,
+            0.18110249936580658,
+            0.17030714452266693
+        ]
+    },
+    {
+        "en": "But instead of feeling isolated, I've found it to be helpful in certain cases, she said.\n",
+        "zh": [
+            "但是她表示,我发现这在特定情况下不是孤立的,而是有帮助的。"
+        ],
+        "token_index": [
+            2,
+            3,
+            1,
+            4,
+            13
+        ],
+        "top_tokens": [
+            "of",
+            "feeling",
+            "instead",
+            "isolated",
+            "helpful"
+        ],
+        "grad": [
+            0.18584975600242615,
+            0.1719961166381836,
+            0.16890664398670197,
+            0.1672506183385849,
+            0.1655026227235794
+        ]
+    },
+    {
+        "en": "But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system.\n",
+        "zh": [
+            "但任何组合都会受到强大的工会的反对,并受到欧盟监管者的密切关注,他们可能更倾向于加强欧洲金融系统的跨境合并。"
+        ],
+        "token_index": [
+            2,
+            4,
+            3,
+            1,
+            5
+        ],
+        "top_tokens": [
+            "combination",
+            "be",
+            "would",
+            "any",
+            "opposed"
+        ],
+        "grad": [
+            0.15566202998161316,
+            0.15213724970817566,
+            0.1514405757188797,
+            0.1474730372428894,
+            0.13794876635074615
+        ]
+    },
+    {
+        "en": "She enrolled in a public speaking class, studied how to project her voice more and even tried out — and toured with — an a capella group.\n",
+        "zh": [
+            "她报名参加一个公共演讲班,学习如何更多地表达她的声音,甚至试了一下,然后带着一个Capella乐队参观。"
+        ],
+        "token_index": [
+            2,
+            4,
+            1,
+            5,
+            6
+        ],
+        "top_tokens": [
+            "in",
+            "public",
+            "enrolled",
+            "speaking",
+            "class"
+        ],
+        "grad": [
+            0.16145342588424683,
+            0.15177370607852936,
+            0.1364443153142929,
+            0.1310177892446518,
+            0.12311498820781708
+        ]
+    },
+    {
+        "en": "It can give employee ' s clarity, increase productivity and morale and help to avoid any tension or confusion.\n",
+        "zh": [
+            "它可以给员工带来清晰感,提高生产力和士气,并帮助避免任何紧张或混乱。"
+        ],
+        "token_index": [
+            3,
+            2,
+            1,
+            12,
+            13
+        ],
+        "top_tokens": [
+            "employee",
+            "give",
+            "can",
+            "and",
+            "help"
+        ],
+        "grad": [
+            0.19000385701656342,
+            0.17495252192020416,
+            0.17149534821510315,
+            0.17082397639751434,
+            0.1706532984972
+        ]
+    },
+    {
+        "en": "Another ProPublica report in November 2017 found discriminatory advertisements were getting through Facebook ' s systems.\n",
+        "zh": [
+            "ProPublica在2017年11月的另一份报告中发现,在Facebook的系统中出现了歧视性广告。"
+        ],
+        "token_index": [
+            2,
+            1,
+            11,
+            12,
+            10
+        ],
+        "top_tokens": [
+            "Public",
+            "Pro",
+            "were",
+            "getting",
+            "advertisements"
+        ],
+        "grad": [
+            0.24578256905078888,
+            0.2334848940372467,
+            0.19655631482601166,
+            0.19160768389701843,
+            0.1849597841501236
+        ]
+    },
+    {
+        "en": "Those doors right now are closed, the former employee said.\n",
+        "zh": [
+            "这位前雇员说,现在这些门已经关闭了。"
+        ],
+        "token_index": [
+            7,
+            8,
+            2,
+            1,
+            9
+        ],
+        "top_tokens": [
+            "the",
+            "former",
+            "right",
+            "doors",
+            "employee"
+        ],
+        "grad": [
+            0.31964123249053955,
+            0.3112940490245819,
+            0.30915674567222595,
+            0.3084833025932312,
+            0.2700249254703522
+        ]
+    },
+    {
+        "en": "The most junior economists can present their research before senior vice presidents, and they're evaluated on how their recommendations impact the company ' s bottom line.\n",
+        "zh": [
+            "最初级的经济学家可以向高级副总裁陈述他们的研究,他们评估他们的建议如何影响公司的底线。"
+        ],
+        "token_index": [
+            1,
+            2,
+            20,
+            3,
+            19
+        ],
+        "top_tokens": [
+            "most",
+            "junior",
+            "their",
+            "economists",
+            "how"
+        ],
+        "grad": [
+            0.1640467792749405,
+            0.15873540937900543,
+            0.1493767648935318,
+            0.14555707573890686,
+            0.14095792174339294
+        ]
+    },
+    {
+        "en": "At its peak in 2014, the blood testing startup was a darling of Silicon Valley.\n",
+        "zh": [
+            "在2014年的高峰期,血液检测的启动是硅谷的宠儿。"
+        ],
+        "token_index": [
+            1,
+            12,
+            2,
+            13,
+            3
+        ],
+        "top_tokens": [
+            "its",
+            "darling",
+            "peak",
+            "of",
+            "in"
+        ],
+        "grad": [
+            0.24955326318740845,
+            0.23227837681770325,
+            0.22265282273292542,
+            0.20920798182487488,
+            0.1928054839372635
+        ]
+    },
+    {
+        "en": "In 2010, Weiss started a popular blog called Into the Gloss with beauty tips, trends and tutorials.\n",
+        "zh": [
+            "2010年,维斯推出了一个流行的博客,名为“进入Gloss”的美容提示、趋势及教程。"
+        ],
+        "token_index": [
+            1,
+            2,
+            3,
+            17,
+            16
+        ],
+        "top_tokens": [
+            "2010,",
+            "We",
+            "is",
+            "tips",
+            "beauty"
+        ],
+        "grad": [
+            0.25365152955055237,
+            0.23118959367275238,
+            0.19699838757514954,
+            0.18487069010734558,
+            0.17304670810699463
+        ]
+    },
+    {
+        "en": "The Bank of England has said the fallout from that scenario would be worse than the 2008 financial crisis.\n",
+        "zh": [
+            "英国央行曾表示,这一局面的影响将比2008年的金融危机更为严重。"
+        ],
+        "token_index": [
+            14,
+            1,
+            13,
+            15,
+            12
+        ],
+        "top_tokens": [
+            "worse",
+            "Bank",
+            "be",
+            "than",
+            "would"
+        ],
+        "grad": [
+            0.19433236122131348,
+            0.18820755183696747,
+            0.18655329942703247,
+            0.17664885520935059,
+            0.17262811958789825
+        ]
+    },
+    {
+        "en": "The move to abolish the rule was seen by many as a crucial step away from the perceived boys' club culture on Sand Hill Road.\n",
+        "zh": [
+            "许多人认为,废除这一规则的举措是远离桑德山路(Sand Hill Road)上人们所感知的男孩俱乐部文化的关键一步。"
+        ],
+        "token_index": [
+            17,
+            18,
+            1,
+            2,
+            3
+        ],
+        "top_tokens": [
+            "perceived",
+            "boys",
+            "move",
+            "to",
+            "abolish"
+        ],
+        "grad": [
+            0.16274981200695038,
+            0.1514393538236618,
+            0.15065883100032806,
+            0.14798295497894287,
+            0.14057999849319458
+        ]
+    },
+    {
+        "en": "During a four month period in late 1965 and early 1966, four new Boeing 727 jets crashed.\n",
+        "zh": [
+            "在1965年底至1966年初的4个月期间,4架波音727型新喷气式飞机坠毁。"
+        ],
+        "token_index": [
+            2,
+            3,
+            4,
+            14,
+            16
+        ],
+        "top_tokens": [
+            "four",
+            "month",
+            "period",
+            "Bo",
+            "ing"
+        ],
+        "grad": [
+            0.22739578783512115,
+            0.2127002775669098,
+            0.20218691229820251,
+            0.19904492795467377,
+            0.1702709197998047
+        ]
+    },
+    {
+        "en": "There were a lot of calls for grounding it, said Bill Waldock, professor at Embry Riddle Aeronautical University and head of the school ' s crash lab.\n",
+        "zh": [
+            "安布里·里德尔航空大学(Emberry Riddle Aeronaignal University)教授、该校坠机实验室主任比尔·沃尔多克(Bill Waldock)说,有很多人打电话要提出这样做的理由。"
+        ],
+        "token_index": [
+            1,
+            7,
+            3,
+            6,
+            8
+        ],
+        "top_tokens": [
+            "were",
+            "ground",
+            "lot",
+            "for",
+            "ing"
+        ],
+        "grad": [
+            0.18506646156311035,
+            0.16621020436286926,
+            0.15959814190864563,
+            0.1583234965801239,
+            0.15504908561706543
+        ]
+    },
+    {
+        "en": "In the summer of 2016, months after the first Wall Street Journal report and more than a decade after the company ' s founding, Theranos still employed between 700 and 900 people.\n",
+        "zh": [
+            "2016年夏季,在《华尔街日报》(Wall Street Journal)首次报道数月后,以及公司成立十多年后,Theranos仍然雇用了700至900人。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            4,
+            7
+        ],
+        "top_tokens": [
+            "summer",
+            "the",
+            "of",
+            "2016",
+            "after"
+        ],
+        "grad": [
+            0.2260073870420456,
+            0.22432465851306915,
+            0.18342573940753937,
+            0.16338440775871277,
+            0.1315741091966629
+        ]
+    },
+    {
+        "en": "But if panic persisted and airlines were unwilling to buy it, the future of Boeing would be in jeopardy.\n",
+        "zh": [
+            "但是,如果恐慌持续存在,航空公司不愿购买,波音公司的未来将处于危险之中。"
+        ],
+        "token_index": [
+            2,
+            1,
+            3,
+            15,
+            4
+        ],
+        "top_tokens": [
+            "panic",
+            "if",
+            "persisted",
+            "Bo",
+            "and"
+        ],
+        "grad": [
+            0.20934037864208221,
+            0.2005329728126526,
+            0.1957092136144638,
+            0.19429148733615875,
+            0.18125179409980774
+        ]
+    },
+    {
+        "en": "May is now asking the European Union to delay Brexit until June 30.\n",
+        "zh": [
+            "阿美 现在 正 要求 欧洲 联盟 将 英国 退欧 推迟 到 6月 30日 。"
+        ],
+        "token_index": [
+            10,
+            11,
+            8,
+            2,
+            1
+        ],
+        "top_tokens": [
+            "re",
+            "xi",
+            "delay",
+            "now",
+            "is"
+        ],
+        "grad": [
+            0.27339956164360046,
+            0.24349141120910645,
+            0.22381693124771118,
+            0.20604579150676727,
+            0.18073469400405884
+        ]
+    },
+    {
+        "en": "Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud.\n",
+        "zh": [
+            "福尔摩斯对有线诈骗和串谋有线诈骗的指控不服罪."
+        ],
+        "token_index": [
+            10,
+            11,
+            9,
+            12,
+            8
+        ],
+        "top_tokens": [
+            "and",
+            "conspiracy",
+            "fraud",
+            "to",
+            "wire"
+        ],
+        "grad": [
+            0.2636059820652008,
+            0.2553374171257019,
+            0.2532320022583008,
+            0.20766018331050873,
+            0.20540094375610352
+        ]
+    },
+    {
+        "en": "According to a 2018 Harvard Business School study, venture capital firms that increased the number of female partners they hired by even 10% saw a bump in overall fund returns.\n",
+        "zh": [
+            "根据2018年哈佛商学院(Harvard Business School)的一项研究,将女性合作伙伴数量增加了10%的风险投资公司整体基金回报率大跌。"
+        ],
+        "token_index": [
+            1,
+            3,
+            4,
+            6,
+            5
+        ],
+        "top_tokens": [
+            "to",
+            "2018",
+            "Harvard",
+            "School",
+            "Business"
+        ],
+        "grad": [
+            0.26072317361831665,
+            0.18756423890590668,
+            0.17428098618984222,
+            0.15675681829452515,
+            0.15594051778316498
+        ]
+    },
+    {
+        "en": "Before, economists used to work on public data.\n",
+        "zh": [
+            "以前, 经济学家通常从事公共数据的研究."
+        ],
+        "token_index": [
+            8,
+            7,
+            2,
+            6,
+            4
+        ],
+        "top_tokens": [
+            "data",
+            "public",
+            "economists",
+            "on",
+            "to"
+        ],
+        "grad": [
+            0.38744056224823,
+            0.3199608623981476,
+            0.2849528193473816,
+            0.25370869040489197,
+            0.2505379617214203
+        ]
+    },
+    {
+        "en": "We tend to deflect or interrupt a lot quicker.\n",
+        "zh": [
+            "我们倾向于转弯或中断要快得多."
+        ],
+        "token_index": [
+            7,
+            8,
+            1,
+            2,
+            5
+        ],
+        "top_tokens": [
+            "lot",
+            "quicker",
+            "tend",
+            "to",
+            "interrupt"
+        ],
+        "grad": [
+            0.42883190512657166,
+            0.3847505450248718,
+            0.24705752730369568,
+            0.23094697296619415,
+            0.2269514948129654
+        ]
+    },
+    {
+        "en": "Throughout her career, Chan has often been one of the only women in the room.\n",
+        "zh": [
+            "在陈的职业生涯中,她经常是房间里唯一的女人之一。"
+        ],
+        "token_index": [
+            10,
+            9,
+            11,
+            2,
+            8
+        ],
+        "top_tokens": [
+            "the",
+            "of",
+            "only",
+            "career",
+            "one"
+        ],
+        "grad": [
+            0.20456115901470184,
+            0.20130372047424316,
+            0.1844550371170044,
+            0.18012292683124542,
+            0.1738409847021103
+        ]
+    },
+    {
+        "en": "The folks at Amazon are not doing the same sort of traditional chief economist ' s role.\n",
+        "zh": [
+            "亚马逊的人并没有像传统首席经济学家那样扮演同样的角色。"
+        ],
+        "token_index": [
+            11,
+            10,
+            1,
+            12,
+            9
+        ],
+        "top_tokens": [
+            "traditional",
+            "of",
+            "folks",
+            "chief",
+            "sort"
+        ],
+        "grad": [
+            0.2275489717721939,
+            0.2151709794998169,
+            0.19731470942497253,
+            0.1967020332813263,
+            0.18881793320178986
+        ]
+    },
+    {
+        "en": "And now, if they want to study behavior, the tech companies have it, and it ' s proprietary.\n",
+        "zh": [
+            "现在,如果它们想学习行为,科技公司就有了它,它也是专有的。"
+        ],
+        "token_index": [
+            1,
+            3,
+            4,
+            14,
+            13
+        ],
+        "top_tokens": [
+            "now",
+            "if",
+            "they",
+            "it",
+            "have"
+        ],
+        "grad": [
+            0.24112926423549652,
+            0.1876484900712967,
+            0.15509289503097534,
+            0.15292060375213623,
+            0.13886089622974396
+        ]
+    },
+    {
+        "en": "Within a week of trying the platform, Chan was convinced the firm should invest.\n",
+        "zh": [
+            "在试用这个平台的一周内, 陈说服了公司应该投资."
+        ],
+        "token_index": [
+            10,
+            9,
+            11,
+            8,
+            2
+        ],
+        "top_tokens": [
+            "convinced",
+            "was",
+            "the",
+            "Chan",
+            "week"
+        ],
+        "grad": [
+            0.2305753082036972,
+            0.20102715492248535,
+            0.19885270297527313,
+            0.17364642024040222,
+            0.16207748651504517
+        ]
+    },
+    {
+        "en": "Other decisions — like how to target ads, where to put bookstores and warehouses, and how much an Echo device should cost — are also vetted by economists.\n",
+        "zh": [
+            "其他决策——比如如何锁定广告目标,将书店和仓库放在哪里,以及Echo装置的成本——也得到了经济学家的审查。"
+        ],
+        "token_index": [
+            1,
+            4,
+            6,
+            5,
+            7
+        ],
+        "top_tokens": [
+            "decisions",
+            "like",
+            "to",
+            "how",
+            "target"
+        ],
+        "grad": [
+            0.14870727062225342,
+            0.10249880701303482,
+            0.09258610755205154,
+            0.09189116209745407,
+            0.09179825335741043
+        ]
+    },
+    {
+        "en": "Anxious gossip about who is and is not mentioned in the latest news reports.\n",
+        "zh": [
+            "在最新新闻报道中,谁在,谁不在,令人焦虑的流言蜚语."
+        ],
+        "token_index": [
+            2,
+            10,
+            11,
+            9,
+            3
+        ],
+        "top_tokens": [
+            "ious",
+            "mentioned",
+            "in",
+            "not",
+            "gossip"
+        ],
+        "grad": [
+            0.24329189956188202,
+            0.2414620965719223,
+            0.22592318058013916,
+            0.2078094184398651,
+            0.19880761206150055
+        ]
+    },
+    {
+        "en": "The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs.\n",
+        "zh": [
+            "人口外流的最终规模可能取决于离婚的条件以及离婚发生的时间。"
+        ],
+        "token_index": [
+            13,
+            14,
+            12,
+            2,
+            1
+        ],
+        "top_tokens": [
+            "of",
+            "the",
+            "terms",
+            "scale",
+            "ultimate"
+        ],
+        "grad": [
+            0.21701471507549286,
+            0.20310033857822418,
+            0.20279419422149658,
+            0.20160610973834991,
+            0.18755607306957245
+        ]
+    },
+    {
+        "en": "If that does not happen, the chances of the country crashing out of the bloc without a transitional deal on March 29 increase.\n",
+        "zh": [
+            "如果做不到这一点,该国在3月29日没有达成过渡协议的情况下退出欧元区的可能性就会增加。"
+        ],
+        "token_index": [
+            17,
+            1,
+            16,
+            2,
+            3
+        ],
+        "top_tokens": [
+            "without",
+            "that",
+            "bloc",
+            "does",
+            "not"
+        ],
+        "grad": [
+            0.20541217923164368,
+            0.19565455615520477,
+            0.18759185075759888,
+            0.1755889505147934,
+            0.1519164741039276
+        ]
+    },
+    {
+        "en": "It ' s not good form to reject something someone gave us, it ' s better to say thank you and receive it graciously, said Dudley.\n",
+        "zh": [
+            "达德里说:拒绝别人送给我们的东西是不好的,最好说声谢谢,并慷慨地接受。"
+        ],
+        "token_index": [
+            3,
+            4,
+            5,
+            9,
+            10
+        ],
+        "top_tokens": [
+            "not",
+            "good",
+            "form",
+            "someone",
+            "gave"
+        ],
+        "grad": [
+            0.14711663126945496,
+            0.12853896617889404,
+            0.10667671263217926,
+            0.10137288272380829,
+            0.10135515034198761
+        ]
+    },
+    {
+        "en": "In addition, Facebook will add more certification and education requirements globally about how to prevent discrimination and ensure advertisers are aware of its policies.\n",
+        "zh": [
+            "此外,Facebook将在全球范围内增加更多关于如何防止歧视的认证和教育要求,并确保广告商了解其政策。"
+        ],
+        "token_index": [
+            1,
+            3,
+            4,
+            17,
+            16
+        ],
+        "top_tokens": [
+            "addition",
+            "Facebook",
+            "will",
+            "and",
+            "discrimination"
+        ],
+        "grad": [
+            0.2268630713224411,
+            0.17255158722400665,
+            0.1413753479719162,
+            0.13309064507484436,
+            0.1321018785238266
+        ]
+    },
+    {
+        "en": "Deutsche Bank investors are running out of patience.\n",
+        "zh": [
+            "德意志银行(Deutsche Bank)的投资者已经没有耐心了。"
+        ],
+        "token_index": [
+            7,
+            6,
+            2,
+            1,
+            5
+        ],
+        "top_tokens": [
+            "patience",
+            "of",
+            "investors",
+            "Bank",
+            "out"
+        ],
+        "grad": [
+            0.5128377079963684,
+            0.4377352297306061,
+            0.35418078303337097,
+            0.3203601837158203,
+            0.3168930113315582
+        ]
+    },
+    {
+        "en": "in their LinkedIn profiles.\n",
+        "zh": [
+            "在他们的LinkedIn简介中。"
+        ],
+        "token_index": [
+            5,
+            4,
+            2,
+            3,
+            1
+        ],
+        "top_tokens": [
+            "profiles",
+            "In",
+            "Link",
+            "ed",
+            "their"
+        ],
+        "grad": [
+            1.0463470220565796,
+            0.8848131895065308,
+            0.6154320240020752,
+            0.6001200079917908,
+            0.5927731990814209
+        ]
+    },
+    {
+        "en": "At the time, Facebook said age based targeting is an accepted industry practice.\n",
+        "zh": [
+            "当时, Facebook表示,以年龄为基础的目标是一个公认的行业实践."
+        ],
+        "token_index": [
+            9,
+            10,
+            8,
+            1,
+            11
+        ],
+        "top_tokens": [
+            "is",
+            "an",
+            "targeting",
+            "the",
+            "accepted"
+        ],
+        "grad": [
+            0.26912248134613037,
+            0.2563004195690155,
+            0.23652169108390808,
+            0.23608726263046265,
+            0.20413996279239655
+        ]
+    },
+    {
+        "en": "Actress Jennifer Lawrence is also expected to star as Holmes in a movie based on Bad Blood.\n",
+        "zh": [
+            "女演员詹妮弗·劳伦斯也有望在一部基于《坏血病》的电影中扮演福尔摩斯."
+        ],
+        "token_index": [
+            1,
+            2,
+            10,
+            11,
+            3
+        ],
+        "top_tokens": [
+            "ress",
+            "Jennifer",
+            "Holmes",
+            "in",
+            "Lawrence"
+        ],
+        "grad": [
+            0.25547468662261963,
+            0.21243730187416077,
+            0.1902235448360443,
+            0.1818220466375351,
+            0.178608238697052
+        ]
+    },
+    {
+        "en": "Housing, employment, and credit ads are crucial to helping people buy new homes, start great careers, and gain access to credit.\n",
+        "zh": [
+            "住房、就业和信贷广告对于帮助人们购买新房、开始伟大的事业和获得信贷都至关重要。"
+        ],
+        "token_index": [
+            2,
+            10,
+            17,
+            11,
+            4
+        ],
+        "top_tokens": [
+            "employment",
+            "to",
+            "start",
+            "helping",
+            "and"
+        ],
+        "grad": [
+            0.1915690004825592,
+            0.1709059476852417,
+            0.16354356706142426,
+            0.16269564628601074,
+            0.16011646389961243
+        ]
+    },
+    {
+        "en": "Since then, the ex employee has been rejected for multiple jobs and is still searching.\n",
+        "zh": [
+            "从那时起,这位前雇员被拒了多项工作,仍在寻找。"
+        ],
+        "token_index": [
+            10,
+            11,
+            9,
+            1,
+            3
+        ],
+        "top_tokens": [
+            "multiple",
+            "jobs",
+            "for",
+            "then",
+            "the"
+        ],
+        "grad": [
+            0.24822621047496796,
+            0.21695749461650848,
+            0.2136392742395401,
+            0.20809483528137207,
+            0.19410870969295502
+        ]
+    },
+    {
+        "en": "Once hired, research questions were everywhere.\n",
+        "zh": [
+            "一旦被录用, 研究问题就无处不在."
+        ],
+        "token_index": [
+            6,
+            5,
+            3,
+            4,
+            1
+        ],
+        "top_tokens": [
+            "everywhere",
+            "were",
+            "research",
+            "questions",
+            "hired"
+        ],
+        "grad": [
+            0.5350802540779114,
+            0.4401837885379791,
+            0.439506858587265,
+            0.43638572096824646,
+            0.3840400278568268
+        ]
+    }
+]
